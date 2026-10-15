@@ -1,0 +1,67 @@
+:root{
+  --bg:#f6f6f6; --page:#fff; --text:#202122; --muted:#54595d; --border:#a7d7f9;
+  --link:#0645ad; --visited:#0b0080; --red:#ba0000; --accent:#36c; --line:#c8ccd1;
+  --code:#f8f9fa;
+}
+@media (prefers-color-scheme: dark){
+  :root{--bg:#101418; --page:#161b22; --text:#e6e6e6; --muted:#9aa4ad; --border:#2a4a6a;
+    --link:#6ea8fe; --visited:#b39ddb; --red:#ff6b6b; --accent:#6ea8fe; --line:#30363d; --code:#1c2128;}
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:15px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+a{color:var(--link);text-decoration:none}
+a:hover{text-decoration:underline}
+a.new{color:var(--red)}
+
+#topbar{display:flex;align-items:center;gap:12px;padding:8px 16px;background:var(--page);border-bottom:1px solid var(--line)}
+#site-title{font:700 1.4em Georgia,serif;color:var(--text)}
+#menu-btn{display:none;background:none;border:0;font-size:22px;color:var(--text);cursor:pointer}
+#search-form{margin-left:auto;display:flex;gap:4px}
+#search-input{padding:6px 10px;border:1px solid var(--line);border-radius:2px;background:var(--page);color:var(--text);width:220px}
+#search-form button{padding:6px 12px;border:1px solid var(--line);background:var(--code);color:var(--text);cursor:pointer;border-radius:2px}
+
+#layout{display:flex;max-width:1200px;margin:0 auto}
+#sidebar{width:176px;flex:none;padding:16px 8px 16px 16px;font-size:13px}
+.portal h3{font-size:11px;color:var(--muted);text-transform:uppercase;margin:16px 0 4px;padding-bottom:2px;border-bottom:1px solid var(--line)}
+.portal ul{list-style:none;margin:0;padding:0}
+.portal li{padding:3px 0}
+
+#content-wrap{flex:1;min-width:0;padding-top:16px}
+#tabs{display:flex;justify-content:space-between;font-size:13px;margin-left:8px}
+#tabs ul{display:flex;list-style:none;margin:0;padding:0}
+#tabs li{background:var(--bg);border:1px solid var(--line);border-bottom:0;margin-right:2px}
+#tabs li.selected{background:var(--page);font-weight:600}
+#tabs li a{display:block;padding:7px 14px}
+#content{background:var(--page);border:1px solid var(--line);padding:20px 28px 28px;min-height:60vh}
+#page-title{font:400 1.9em Georgia,"Linux Libertine",serif;margin:0 0 .5em;border-bottom:1px solid var(--line);padding-bottom:.2em}
+#page-body h2{font:400 1.5em Georgia,serif;border-bottom:1px solid var(--line);margin:1.2em 0 .5em;padding-bottom:.1em}
+#page-body h3{font-size:1.15em;margin:1em 0 .4em}
+#page-body h4{font-size:1em;margin:1em 0 .3em}
+#page-body img{max-width:100%}
+#page-body blockquote{margin:1em 0;padding:.4em 1em;border-left:4px solid var(--border);background:var(--code);color:var(--muted)}
+#page-body code{background:var(--code);padding:1px 5px;border:1px solid var(--line);border-radius:2px;font-size:.9em}
+#page-body pre{background:var(--code);border:1px solid var(--line);padding:12px;overflow:auto}
+#page-body pre code{border:0;padding:0;background:none}
+#page-body table{border-collapse:collapse;margin:1em 0}
+#page-body th,#page-body td{border:1px solid var(--line);padding:6px 10px}
+#page-body th{background:var(--code)}
+.toc{display:inline-block;background:var(--code);border:1px solid var(--line);padding:8px 16px;font-size:13px;margin:0 0 1em}
+.toc-title{font-weight:700;text-align:center}
+.toc ol{margin:4px 0;padding-left:1.4em}
+.toc ol ol{padding-left:1.2em}
+#page-categories{margin-top:2em;border:1px solid var(--line);background:var(--code);padding:6px 10px;font-size:13px}
+#page-categories:empty{display:none}
+#page-footer{margin-top:1.5em;color:var(--muted);font-size:12px}
+.notice{border:1px solid var(--line);background:var(--code);padding:10px 14px}
+.result{margin:0 0 12px}
+.result .snip{color:var(--muted);font-size:13px}
+.cols{columns:3 200px}
+.cols li{break-inside:avoid}
+
+@media (max-width:760px){
+  #menu-btn{display:block}
+  #sidebar{display:none;position:absolute;z-index:10;background:var(--page);border:1px solid var(--line);top:48px;left:0}
+  #sidebar.open{display:block}
+  #search-input{width:130px}
+  #content{padding:14px}
+}
