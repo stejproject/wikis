@@ -176,19 +176,41 @@
   }
 
   function recent() {
-    let rows;
+    const repo = detectRepo();
+    const label = { A: 'Halaman baru', M: 'Disunting', D: 'Dihapus', R: 'Dipindah' };
+    const row = (id, title, when, bodyHtml) => `
+      <li>
+        <button type="button" class="judpos" aria-expanded="false" aria-controls="${id}">
+          <span>${title}</span><small>${when}</small>
+        </button>
+        <div class="acc-panel" id="${id}" hidden>${bodyHtml}</div>
+      </li>`;
+    let items;
     if (idx.changes && idx.changes.length) {
-      const label = { A: 'baru', M: 'sunting', D: 'hapus', R: 'pindah' };
-      rows = idx.changes.slice(0, 100).map(c => {
-        const p = lookup(c.slug);
-        const t = p ? link(p) : esc(c.slug.replace(/_/g, ' '));
-        return `<li>${fmtDate(c.date)} — ${t} <small>(${label[c.type] || c.type}; ${esc(c.author)})</small> <i>${esc(c.message)}</i></li>`;
+      items = idx.changes.slice(0, 100).map((c, i) => {
+        const p = lookup(c.slug), name = p ? p.title : c.slug.replace(/_/g, ' ');
+        const links = [
+          p ? `<a href="#/${encodeURIComponent(p.slug)}">Buka halaman</a>` : '',
+          repo ? `<a href="https://github.com/${repo}/commits/${cfg.branch}/${cfg.contentDir}/${encodeURIComponent(c.slug)}.md" target="_blank" rel="noopener">Riwayat</a>` : '',
+          repo && c.hash ? `<a href="https://github.com/${repo}/commit/${c.hash}" target="_blank" rel="noopener">Lihat perubahan</a>` : ''
+        ].filter(Boolean).join(' · ');
+        return row('chg' + i, esc(name), esc(label[c.type] || c.type) + ' · ' + fmtDate(c.date), `
+          <p><b>Oleh:</b> ${esc(c.author)}<br><b>Waktu:</b> ${fmtDate(c.date)}<br><b>Ringkasan:</b> <i>${esc(c.message)}</i></p>
+          <p>${links}</p>`);
       });
     } else {
-      rows = [...idx.pages].sort((a, b) => b.updated.localeCompare(a.updated)).slice(0, 50)
-        .map(p => `<li>${fmtDate(p.updated)} — ${link(p)}</li>`);
+      items = [...idx.pages].sort((a, b) => b.updated.localeCompare(a.updated)).slice(0, 50)
+        .map((p, i) => row('chg' + i, esc(p.title), 'Diubah ' + fmtDate(p.updated),
+          `<p>${esc(p.excerpt)}…</p><p><a href="#/${encodeURIComponent(p.slug)}">Buka halaman</a></p>`));
     }
-    render('Perubahan terbaru', `<ul>${rows.join('')}</ul>`, { special: true });
+    render('Perubahan terbaru', `<ul id="myUL" class="accordion">${items.join('')}</ul>`, { special: true });
+    $('page-body').querySelector('.accordion').addEventListener('click', e => {
+      const b = e.target.closest('.judpos'); if (!b) return;
+      const open = b.getAttribute('aria-expanded') === 'true';
+      b.setAttribute('aria-expanded', String(!open));
+      b.classList.toggle('active', !open);
+      document.getElementById(b.getAttribute('aria-controls')).hidden = open;
+    });
   }
 
   function search(q) {
