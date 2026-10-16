@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: OWNER/REPO        # <-- GANTI: contoh budi/wiki-saya
+  repo: stejproject/wikis        # <-- GANTI: contoh budi/wiki-saya
   branch: main
   commit_messages:
     create: 'Buat halaman "{{slug}}"'
