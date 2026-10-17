@@ -1,6 +1,4 @@
 #!/usr/bin/env node
-// Membuat index.json dari content/system/*.md dan content/articles/*.md (tanpa dependensi).
-// Jalankan: node scripts/build-index.js
 const fs = require('fs'), path = require('path'), cp = require('child_process');
 const root = path.join(__dirname, '..');
 const dir = path.join(root, 'content');
@@ -62,7 +60,6 @@ for (const sub of SUBDIRS) {
   }
 }
 
-// Riwayat perubahan dari git log (bila tersedia)
 const changes = [];
 const log = git(['log', '-n', '200', '--name-status', '--format=@@%H|%an|%cI|%s', '--', 'content']);
 for (const block of log.split('@@').slice(1)) {
@@ -73,5 +70,9 @@ for (const block of log.split('@@').slice(1)) {
     if (m && m[1] !== 'R100') changes.push({ slug: m[2], type: m[1][0], author, date, message: msg.join('|'), hash });
   }
 }
-fs.writeFileSync(path.join(root, 'index.json'), JSON.stringify({ generated: new Date().toISOString(), pages, changes }, null, 1));
-console.log(`index.json: ${pages.length} halaman, ${changes.length} perubahan`);
+
+const known = new Set(pages.map(p => p.slug.toLowerCase()));
+const shown = changes.filter(c => c.type !== 'D' && known.has(c.slug.toLowerCase()));
+
+fs.writeFileSync(path.join(root, 'index.json'), JSON.stringify({ generated: new Date().toISOString(), pages, changes: shown }, null, 1));
+console.log(`index.json: ${pages.length} halaman, ${shown.length} perubahan`);
