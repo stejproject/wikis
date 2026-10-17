@@ -19,7 +19,11 @@
   }
   const lookup = name => byKey.get(key(name));
 
-  function adminUrl(path) { return 'admin/#/collections/pages/' + path; }
+  // Lokasi file .md: content/<dir>/<slug>.md (dir = 'system' | 'articles'; kosong untuk index.json lama)
+  const fileOf = p => `${cfg.contentDir}/${p.dir ? p.dir + '/' : ''}${encodeURIComponent(p.slug)}.md`;
+  const collOf = p => (p && p.dir === 'system') ? 'system' : 'pages';
+
+  function adminUrl(path, coll = 'pages') { return 'admin/#/collections/' + coll + '/' + path; }
 
   async function init() {
     try { cfg = { ...cfg, ...(await (await fetch('config.json', { cache: 'no-cache' })).json()) }; } catch (e) {}
@@ -42,13 +46,13 @@
     route();
   }
 
-  function setTabs(slug) {
-    const repo = detectRepo(), file = `${cfg.contentDir}/${slug}.md`;
+  function setTabs(p) {
+    const repo = detectRepo();
     const edit = $('tab-edit'), hist = $('tab-history');
-    if (!slug) { edit.parentElement.hidden = hist.parentElement.hidden = true; return; }
+    if (!p) { edit.parentElement.hidden = hist.parentElement.hidden = true; return; }
     edit.parentElement.hidden = hist.parentElement.hidden = false;
-    edit.href = adminUrl('entries/' + encodeURIComponent(slug));
-    hist.href = repo ? `https://github.com/${repo}/commits/${cfg.branch}/${file}` : '#';
+    edit.href = adminUrl('entries/' + encodeURIComponent(p.slug), collOf(p));
+    hist.href = repo ? `https://github.com/${repo}/commits/${cfg.branch}/${fileOf(p)}` : '#';
   }
 
   function render(title, html, opts = {}) {
@@ -57,7 +61,7 @@
     $('page-categories').innerHTML = opts.cats || '';
     $('page-footer').innerHTML = opts.footer || '';
     $('tab-page').textContent = opts.special ? 'Halaman khusus' : 'Halaman';
-    setTabs(opts.slug || '');
+    setTabs(opts.page || null);
     document.title = title + ' – ' + cfg.title;
     $('sidebar').classList.remove('open');
     scrollTo(0, 0);
@@ -81,7 +85,8 @@
         case 'kategori': return categoryList();
         case 'perubahan_terbaru': return recent();
         case 'acak': {
-          const p = idx.pages[Math.floor(Math.random() * idx.pages.length)];
+          const pool = idx.pages.filter(p => !p.system); // halaman sistem tidak ikut diacak
+          const p = pool[Math.floor(Math.random() * pool.length)];
           return p ? (location.hash = '#/' + encodeURIComponent(p.slug)) : allPages();
         }
         case 'cari': return search(params.get('q') || '');
@@ -100,15 +105,15 @@
     $('page-body').textContent = 'Memuat…';
     let md;
     try {
-      const r = await fetch(`${cfg.contentDir}/${encodeURIComponent(p.slug)}.md`, { cache: 'no-cache' });
+      const r = await fetch(fileOf(p), { cache: 'no-cache' });
       if (!r.ok) throw 0;
       md = await r.text();
-    } catch (e) { return render(p.title, '<div class="notice">Gagal memuat halaman.</div>', { slug: p.slug }); }
+    } catch (e) { return render(p.title, '<div class="notice">Gagal memuat halaman.</div>', { page: p }); }
     md = md.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n?/, '');
 
     const html = buildHtml(md);
     const cats = p.categories.length ? '<b>Kategori:</b> ' + p.categories.map(catLink).join(' | ') : '';
-    render(p.title, '', { slug: p.slug, cats, footer: 'Terakhir diubah pada ' + fmtDate(p.updated) + '.' });
+    render(p.title, '', { page: p, cats, footer: 'Terakhir diubah pada ' + fmtDate(p.updated) + '.' });
     $('page-body').replaceChildren(html);
   }
 
@@ -157,7 +162,8 @@
   }
 
   function allPages() {
-    const ps = [...idx.pages].sort((a, b) => a.title.localeCompare(b.title, 'id'));
+    // Hanya artikel; halaman sistem (Bantuan, dll.) tidak ditampilkan di sini
+    const ps = idx.pages.filter(p => !p.system).sort((a, b) => a.title.localeCompare(b.title, 'id'));
     render('Semua halaman', `<p>${ps.length} halaman.</p><ul class="cols">${ps.map(p => `<li>${link(p)}</li>`).join('')}</ul>`, { special: true });
   }
 
@@ -189,9 +195,10 @@
     if (idx.changes && idx.changes.length) {
       items = idx.changes.slice(0, 100).map((c, i) => {
         const p = lookup(c.slug), name = p ? p.title : c.slug.replace(/_/g, ' ');
+        const histPath = p ? fileOf(p) : `${cfg.contentDir}/${encodeURIComponent(c.slug)}.md`;
         const links = [
           p ? `<a href="#/${encodeURIComponent(p.slug)}">Buka halaman</a>` : '',
-          repo ? `<a href="https://github.com/${repo}/commits/${cfg.branch}/${cfg.contentDir}/${encodeURIComponent(c.slug)}.md" target="_blank" rel="noopener">Riwayat</a>` : '',
+          repo ? `<a href="https://github.com/${repo}/commits/${cfg.branch}/${histPath}" target="_blank" rel="noopener">Riwayat</a>` : '',
           repo && c.hash ? `<a href="https://github.com/${repo}/commit/${c.hash}" target="_blank" rel="noopener">Lihat perubahan</a>` : ''
         ].filter(Boolean).join(' · ');
         return row('chg' + i, esc(name), esc(label[c.type] || c.type) + ' · ' + fmtDate(c.date), `
