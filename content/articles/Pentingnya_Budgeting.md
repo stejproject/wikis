@@ -1,17 +1,15 @@
 ---
-title: Pentingnya Budgeting
+title: Budget Line
 categories:
   - ekonomi
   - pendidikan
 ---
-## Pengantar
-
 Budgeting Sangat penting karena mengatur uang
 
-## Isi
+## Fitur Dan Manfaat
 
 ......
 
-## Refrensi
+## Pranala
 
 1. https://stejproject.github.io/budget-line/
