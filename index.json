@@ -1,46 +1,97 @@
 {
- "generated": "2026-10-15T23:11:09.738Z",
+ "generated": "2026-10-17T01:00:00.000Z",
  "pages": [
   {
    "slug": "bantuan",
+   "dir": "system",
+   "system": true,
    "title": "Bantuan",
-   "categories": [
-    "Wiki"
-   ],
+   "categories": ["Wiki"],
    "excerpt": "Panduan singkat menulis halaman. Menyunting Klik tab Sunting di atas halaman (atau buka /admin ), masuk dengan akun GitHub, lalu simpan. Setiap simpanan menjadi commit di repositori, dan situs otomati",
-   "updated": "2026-10-15T23:11:09.638Z",
+   "updated": "2026-10-16T10:54:10+07:00",
    "text": "Panduan singkat menulis halaman. Menyunting Klik tab Sunting di atas halaman (atau buka /admin ), masuk dengan akun GitHub, lalu simpan. Setiap simpanan menjadi commit di repositori, dan situs otomatis diterbitkan ulang dalam ±1 menit. Sintaks Tujuan Tulis Tautan ke halaman wiki Judul Halaman Tautan dengan teks lain teks Tautan luar teks Tebal / miring tebal , miring Judul bagian Judul , Sub Gambar unggah lewat CMS lalu sisipkan Daftar isi dibuat otomatis jika halaman memiliki 3 judul bagian atau lebih. Kategori Isi kolom Kategori di CMS. Halaman otomatis muncul di daftar kategori. Halaman baru Gunakan Buat halaman baru di sidebar. Tautan merah ... mengarah ke halaman yang belum ada."
   },
   {
-   "slug": "contoh_halaman",
-   "title": "Contoh Halaman",
-   "categories": [
-    "Contoh"
-   ],
-   "excerpt": "Ini halaman contoh dengan tautan ke Bantuan. Bagian satu Teks biasa dengan tebal dan miring . Bagian dua 1. Satu 2. Dua Sub bagian Kutipan.",
-   "updated": "2026-10-15T23:11:09.643Z",
-   "text": "Ini halaman contoh dengan tautan ke Bantuan. Bagian satu Teks biasa dengan tebal dan miring . Bagian dua 1. Satu 2. Dua Sub bagian Kutipan."
-  },
-  {
    "slug": "halaman_utama",
+   "dir": "system",
+   "system": true,
    "title": "Halaman Utama",
-   "categories": [
-    "Wiki"
-   ],
-   "excerpt": "Selamat datang di Wiki ! Ini adalah wiki bergaya MediaWiki yang berjalan sepenuhnya di GitHub Pages, dengan CMS di /admin untuk menyunting halaman. Mulai Baca Bantuan untuk panduan menyunting. Lihat T",
-   "updated": "2026-10-15T23:11:09.636Z",
-   "text": "Selamat datang di Wiki ! Ini adalah wiki bergaya MediaWiki yang berjalan sepenuhnya di GitHub Pages, dengan CMS di /admin untuk menyunting halaman. Mulai Baca Bantuan untuk panduan menyunting. Lihat Tentang Wiki untuk cara kerja wiki ini. Jelajahi semua halaman atau kategori. Halaman contoh Contoh Halaman Halaman yang belum ada (tautan merah = belum dibuat)"
+   "categories": [],
+   "excerpt": "",
+   "updated": "2026-10-16T10:54:10+07:00",
+   "text": "Halaman Utama"
   },
   {
    "slug": "tentang_wiki",
+   "dir": "system",
+   "system": true,
    "title": "Tentang Wiki",
-   "categories": [
-    "Wiki"
-   ],
-   "excerpt": "Arsitektur Wiki ini statis: semua halaman adalah berkas Markdown di folder content/ . Browser memuat index.json (dibuat otomatis oleh GitHub Action) lalu menampilkan halaman, pencarian, kategori, dan ",
-   "updated": "2026-10-15T23:11:09.640Z",
-   "text": "Arsitektur Wiki ini statis: semua halaman adalah berkas Markdown di folder content/ . Browser memuat index.json (dibuat otomatis oleh GitHub Action) lalu menampilkan halaman, pencarian, kategori, dan perubahan terbaru. Penyuntingan CMS memakai Sveltia CMS yang menulis langsung ke repositori GitHub. Riwayat halaman adalah riwayat commit Git. Batasan Dibanding MediaWiki asli: tidak ada templat, pengguna/izin bawaan (izin = akses tulis repo GitHub), atau halaman pembicaraan."
+   "categories": [],
+   "excerpt": "",
+   "updated": "2026-10-16T10:54:10+07:00",
+   "text": "Tentang Wiki"
+  },
+  {
+   "slug": "contoh_halaman",
+   "dir": "articles",
+   "system": false,
+   "title": "Contoh Halaman",
+   "categories": [],
+   "excerpt": "",
+   "updated": "2026-10-16T10:54:10+07:00",
+   "text": "Contoh Halaman"
+  },
+  {
+   "slug": "postingan",
+   "dir": "articles",
+   "system": false,
+   "title": "Postingan",
+   "categories": [],
+   "excerpt": "",
+   "updated": "2026-10-17T07:20:12+07:00",
+   "text": "Postingan"
   }
  ],
- "changes": []
+ "changes": [
+  {
+   "slug": "postingan",
+   "type": "M",
+   "author": "Stej Project",
+   "date": "2026-10-17T07:20:12+07:00",
+   "message": "Sunting halaman \"postingan\"",
+   "hash": "4bc160a7c23c9296b80dbd43b21e21e4ef17188f"
+  },
+  {
+   "slug": "bantuan",
+   "type": "A",
+   "author": "Stej Project",
+   "date": "2026-10-16T10:54:10+07:00",
+   "message": "Add files via upload",
+   "hash": "219dce3da80a2e4f3002f6d9429362208039118d"
+  },
+  {
+   "slug": "contoh_halaman",
+   "type": "A",
+   "author": "Stej Project",
+   "date": "2026-10-16T10:54:10+07:00",
+   "message": "Add files via upload",
+   "hash": "219dce3da80a2e4f3002f6d9429362208039118d"
+  },
+  {
+   "slug": "halaman_utama",
+   "type": "A",
+   "author": "Stej Project",
+   "date": "2026-10-16T10:54:10+07:00",
+   "message": "Add files via upload",
+   "hash": "219dce3da80a2e4f3002f6d9429362208039118d"
+  },
+  {
+   "slug": "tentang_wiki",
+   "type": "A",
+   "author": "Stej Project",
+   "date": "2026-10-16T10:54:10+07:00",
+   "message": "Add files via upload",
+   "hash": "219dce3da80a2e4f3002f6d9429362208039118d"
+  }
+ ]
 }
