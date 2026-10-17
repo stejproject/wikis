@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: stejproject/wikis        # <-- GANTI: contoh budi/wiki-saya
+  repo: stejproject/wikis
   branch: main
   commit_messages:
     create: 'Buat halaman "{{slug}}"'
@@ -21,14 +21,33 @@ slug:
   sanitize_replacement: _
 
 collections:
+  # Artikel biasa -> content/articles (tombol "Buat halaman baru" mengarah ke sini)
   - name: pages
-    label: Halaman
-    label_singular: Halaman
-    folder: content
+    label: Artikel
+    label_singular: Artikel
+    folder: content/articles
     extension: md
     format: frontmatter
     create: true
     delete: true
+    identifier_field: title
+    slug: '{{title}}'
+    summary: '{{title}}'
+    sortable_fields: [title]
+    fields:
+      - { name: title, label: Judul, widget: string }
+      - { name: categories, label: Kategori, widget: list, required: false, hint: 'Satu kategori per baris' }
+      - { name: body, label: Isi, widget: markdown, hint: 'Tautan antar halaman: [[Judul Halaman]] atau [[Judul Halaman|teks tampil]]' }
+
+  # Halaman wiki sendiri (Halaman Utama, Bantuan, Tentang Wiki, dll.) -> content/system
+  - name: system
+    label: Halaman Sistem
+    label_singular: Halaman Sistem
+    folder: content/system
+    extension: md
+    format: frontmatter
+    create: true
+    delete: false
     identifier_field: title
     slug: '{{title}}'
     summary: '{{title}}'
