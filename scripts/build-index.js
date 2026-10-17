@@ -1,8 +1,10 @@
 #!/usr/bin/env node
-// Membuat index.json dari content/*.md (tanpa dependensi). Jalankan: node scripts/build-index.js
+// Membuat index.json dari content/system/*.md dan content/articles/*.md (tanpa dependensi).
+// Jalankan: node scripts/build-index.js
 const fs = require('fs'), path = require('path'), cp = require('child_process');
 const root = path.join(__dirname, '..');
 const dir = path.join(root, 'content');
+const SUBDIRS = ['system', 'articles']; // system = halaman wiki (Bantuan, dll.), articles = isi artikel
 
 function unq(v) {
   v = v.trim();
@@ -37,16 +39,27 @@ function git(args) {
   catch (e) { return ''; }
 }
 
-const pages = [];
-for (const f of fs.readdirSync(dir).filter(f => f.endsWith('.md')).sort()) {
-  const slug = f.slice(0, -3);
-  const src = fs.readFileSync(path.join(dir, f), 'utf8');
-  const { data, body } = parseFM(src);
-  const text = plain(body);
-  const cats = Array.isArray(data.categories) ? data.categories : (data.categories ? [data.categories] : []);
-  let updated = git(['log', '-1', '--format=%cI', '--', 'content/' + f]).trim();
-  if (!updated) updated = (data.date ? new Date(data.date) : fs.statSync(path.join(dir, f)).mtime).toISOString();
-  pages.push({ slug, title: data.title || slug.replace(/_/g, ' '), categories: cats, excerpt: text.slice(0, 200), updated, text: text.slice(0, 20000) });
+const pages = [], seen = new Set();
+for (const sub of SUBDIRS) {
+  const d = path.join(dir, sub);
+  if (!fs.existsSync(d)) continue;
+  for (const f of fs.readdirSync(d).filter(f => f.endsWith('.md')).sort()) {
+    const slug = f.slice(0, -3);
+    if (seen.has(slug.toLowerCase())) console.warn('PERINGATAN slug ganda (halaman sistem didahulukan):', `${sub}/${f}`);
+    seen.add(slug.toLowerCase());
+    const file = path.join(d, f);
+    const { data, body } = parseFM(fs.readFileSync(file, 'utf8'));
+    const text = plain(body);
+    const cats = Array.isArray(data.categories) ? data.categories : (data.categories ? [data.categories] : []);
+    // --follow + --diff-filter=AM: commit pemindahan folder tidak dihitung sebagai "diubah"
+    let updated = git(['log', '-1', '--follow', '--diff-filter=AM', '--format=%cI', '--', `content/${sub}/${f}`]).trim();
+    if (!updated) updated = (data.date ? new Date(data.date) : fs.statSync(file).mtime).toISOString();
+    pages.push({
+      slug, dir: sub, system: sub === 'system',
+      title: data.title || slug.replace(/_/g, ' '),
+      categories: cats, excerpt: text.slice(0, 200), updated, text: text.slice(0, 20000)
+    });
+  }
 }
 
 // Riwayat perubahan dari git log (bila tersedia)
@@ -56,8 +69,8 @@ for (const block of log.split('@@').slice(1)) {
   const [head, ...rest] = block.split('\n');
   const [hash, author, date, ...msg] = head.split('|');
   for (const l of rest) {
-    const m = l.match(/^([AMDR]\d*)\t(?:.*\t)?content\/(.+)\.md$/);
-    if (m) changes.push({ slug: m[2], type: m[1][0], author, date, message: msg.join('|'), hash });
+    const m = l.match(/^([AMDR]\d*)\t(?:.*\t)?content\/(?:system\/|articles\/)?([^/]+)\.md$/);
+    if (m && m[1] !== 'R100') changes.push({ slug: m[2], type: m[1][0], author, date, message: msg.join('|'), hash });
   }
 }
 fs.writeFileSync(path.join(root, 'index.json'), JSON.stringify({ generated: new Date().toISOString(), pages, changes }, null, 1));
