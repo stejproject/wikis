@@ -25,9 +25,15 @@ jobs:
           node-version: 20
       - run: node scripts/build-index.js
       - run: |
-          mkdir -p _site uploads
+          mkdir -p _site
           touch .nojekyll
-          cp -r index.html 404.html config.json index.json assets admin content uploads .nojekyll _site/
+          # Repo ini hanya menerbitkan artikel + CMS; mesin wiki ada di stejproject.github.io/posts/category/wiki/
+          for f in index.html index.json .nojekyll; do
+            if [ -f "$f" ]; then cp "$f" _site/; fi
+          done
+          for d in admin content uploads; do
+            if [ -d "$d" ]; then cp -r "$d" _site/; fi
+          done
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
