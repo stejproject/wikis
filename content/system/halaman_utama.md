@@ -3,7 +3,7 @@ title: Halaman Utama
 categories:
   - Wiki
 ---
-Selamat datang di **Wiki**! Ini adalah wiki bergaya MediaWiki yang berjalan sepenuhnya di GitHub Pages, dengan CMS di [/admin](admin/) untuk menyunting halaman.
+Selamat datang di **Wiki**! Ini adalah wiki bergaya MediaWiki yang berjalan sepenuhnya di GitHub Pages, dengan CMS di [/admin](https://stejproject.github.io/wikis/admin/) untuk menyunting halaman.
 
 ## Mulai
 
