@@ -38,4 +38,4 @@ Budget-Line adalah aplikasi pencatatan keuangan berbasis web yang dirancang sede
 
 ## Pranala/tautan
 
-1. https://stejproject.github.io/budget-line/
+1. https://stejproject.github.io/openproject/budget-line.html
