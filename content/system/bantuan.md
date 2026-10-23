@@ -35,4 +35,4 @@ Gunakan **Buat halaman baru** di sidebar. Tautan merah `[[...]]` mengarah ke hal
 
 ## Token
 
-Kunjungi [https://github.com/settings/personal-access-tokens](https://github.com/settings/personal-access-tokens/new). Lalu lihat halaman [README.md ](https://stejproject.github.io/wikis/README.md)
+Kunjungi [https://github.com/settings/personal-access-tokens](https://github.com/settings/personal-access-tokens/new). Lalu lihat halaman [README.md ](https://github.com/stejproject/wikis/blob/main/README.md)
