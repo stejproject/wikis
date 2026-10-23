@@ -62,7 +62,14 @@ Berikut alasan mengapa kerendahan hati sangat krusial:
 
 > **Inti dari belajar:** _"Semakin tinggi ilmu seseorang, ia akan seperti padi—semakin merunduk karena menyadari luasnya semesta ilmu yang belum terjangkau."_
 
-Tips praktis untuk menjaga mentalitas pembelajar (_growth mindset_) sesuai kebutuhan Anda.
+Tips praktis untuk menjaga mentalitas pembelajar (_growth mindset_) yaitu harus dipenuhi:
+
+- **Praktikkan&#32;_Intellectual Humility_:** Sadari bahwa keahlian Anda saat ini hanyalah sebagian kecil dari luasnya ilmu pengetahuan.
+- **Cari Umpan Balik Objektif:** Mintalah kritik jujur dari rekan kerja atau mentor secara berkala untuk memetakan titik buta (_blind spot_) Anda.
+- **Evaluasi Prediksi vs Realisasi:** Bandingkan target waktu atau hasil kerja Anda dengan realita di lapangan untuk melatih metakognisi.
+- **Gunakan Kegagalan Sebagai Data:** Jangan defensif saat berbuat salah, melainkan analisis aspek perilaku dan kompetensi yang perlu diperbaiki.
+- **Jaga Gelas Tetap Kosong:** Dengarkan pendapat orang lain dalam diskusi dengan tujuan untuk memahami, bukan untuk mendebat.
+- **Tantang Diri dengan Hal Baru:** Masuklah ke bidang baru secara berkala untuk memaksa diri mengulangi siklus belajar dari dasar.
 
 ## Pranala
 
