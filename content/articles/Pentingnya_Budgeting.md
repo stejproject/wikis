@@ -3,8 +3,8 @@ title: Budget Line
 categories:
   - ekonomi
   - pendidikan
-  - situs
-  - wiki
+  - Situs
+  - Wiki
 ---
 Budgeting sangat penting karena membantu mengatur pemasukan dan pengeluaran secara teratur, sehingga keuangan menjadi lebih terkendali dan terhindar dari pemborosan.
 
