@@ -1,9 +1,9 @@
 ---
 title: Yang harus ada di dalam sebuah website
 categories:
-  - situs
-  - wiki
-  - ilmiah
+  - Situs
+  - Wiki
+  - Ilmiah
 ---
 Sobat, kalau ingin membuat sebuah website, entah yang bersifat statis ataupun dinamis harus memperhatikan hal-hal berikut ini agar web yang sudah di buat nantinya bisa di lihat oleh pengunjung.
 
