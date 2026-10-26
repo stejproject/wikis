@@ -108,7 +108,7 @@ Jaksel Script is a new programming language, very modern, easy to learn, using I
              udahan
              
 
-             JavaScript
+## JavaScript
 
              
              // transform to
@@ -117,7 +117,7 @@ Jaksel Script is a new programming language, very modern, easy to learn, using I
              }
              
 
-             Jaksel script
+## Jaksel script
 
              
              kalo foo lebih gede 3
@@ -128,7 +128,7 @@ Jaksel Script is a new programming language, very modern, easy to learn, using I
                spill "its smaller than 3"
              udahan
 
-             JavaScript
+## JavaScript
 
              
              // transform to
@@ -141,9 +141,8 @@ Jaksel Script is a new programming language, very modern, easy to learn, using I
              }
              
 
-             Comparison :
-
-             Jaksel script
+##Comparison :
+###Jaksel script
 
              
                  itu: ' == ',
@@ -156,7 +155,7 @@ Jaksel Script is a new programming language, very modern, easy to learn, using I
 
              Loop
 
-             Jaksel script
+###Jaksel script
 
              
              fomo i endup 10
