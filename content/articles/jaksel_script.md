@@ -141,8 +141,8 @@ Jaksel Script is a new programming language, very modern, easy to learn, using I
              }
              
 
-##Comparison :
-###Jaksel script
+## Comparison :
+### Jaksel script
 
              
                  itu: ' == ',
@@ -155,7 +155,7 @@ Jaksel Script is a new programming language, very modern, easy to learn, using I
 
              Loop
 
-###Jaksel script
+### Jaksel script
 
              
              fomo i endup 10
