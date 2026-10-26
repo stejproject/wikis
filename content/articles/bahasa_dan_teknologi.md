@@ -12,7 +12,10 @@ categories:
 ---
 Bahasa dan teknologi saat ini merupakan dua hal yang sudah tidak bisa dipisahkan lagi. Meskipun dari definisinya berbeda, internet yang menggabungkan kedua definisi yang terpisah makna serta artinya sehingga bisa menjadi satu kesatuan yang tidak dapat dipisahkan dari kehidupan kita.
 
+## Isi
+
 Dalam berinternet, kita lupa dengan adanya kebijakkan-kebijakan yang telah ada di dalam website yang itu merupakan sebagai aturan-aturan dalam kehidupan berinternet. Seperti langsung menggunakkan situs yang kita suka. Daftar akun sebanyak-banyaknya, dan menyebarkan informasi yang belum jelas kebenarannya. Kebijakan privasi, syarat dan ketentuan, dan lain sebagainya. Dan yang terutama ialah undang-undang hak cipta dan undang-undang ITE. Kedua Peraturan ini sangat berpengaruh terhadap kehidupan berinternet saat ini. Tanpa-nya, internet akan lebih suram dan sangat sadis seperti:
+
 - Kejahatan internet yang merajalela,
 - "CoPas" sering terjadi,
 - Postingan menjadi tidak terpecaya,
@@ -22,7 +25,6 @@ Untuk itu, tujuan adanya peraturan, untuk mempertegas aturan yang ada di website
 ## Refrensi
 
 _[1] Kementerian Hukum dan HAM RI, “INFORMASI DAN TRANSAKSI ELEKTRONIK”, peraturan .go.id, 21 April 2008. (Diunduh dari halaman https://peraturan.go.id/common/dokumen/ln/2014/uu28-2014bt.pdf pada 25 Mei 2022.)_
-
 
 _[2] Kementerian Hukum dan HAM RI, “HAK CIPTA”, peraturan .go.id, 28 Oktober 2014. (Diunduh dari halaman https://peraturan.go.id/common/dokumen/ln/2008/UU%2011%20Tahun%202008.pdf pada 25 Mei 2022.)_
 
