@@ -1,146 +1,106 @@
 ---
 title: Jaksel Script
 categories:
-  - program
-  - inovasi
-  - peranti
+  - Program
+  - Inovasi
+  - Peranti
 ---
 Jaksel Script is a new programming language, very modern, easy to learn, using Indonesia-slang language. No programming experience required.CommandSome command just like javascript, the only different is keyword and this language will translate to javascript and run as javascript. I know, this is just for fun. Variable             Assign variable
 
+## Contoh Program
 
              Jaksel script
-
 
              
              literally foo itu "hello world"
 
-
              JavaScript
-
 
              
              let foo = "hello world"
 
-
              Jaksel script
-
 
              
              seriously foo itu 123
 
-
              JavaScript
-
 
              
              const foo = 123
 
-
              Reassign variable
 
-
              Jaksel script
-
 
              
              whichis foo itu "hello world 2"
 
-
              JavaScript
-
 
              
              foo = "hello world 2"
 
-
-
              Boolean
 
-
              Jaksel script
-
 
              
              literally foo itu positive vibes
 
-
              JavaScript
-
 
              
              let foo = true
 
-
              Jaksel script
-
 
              
              literally foo itu worth it
 
-
              JavaScript
-
 
              
              let foo = true
 
-
              Jaksel script
-
 
              
              literally foo itu negative vibes
 
-
              JavaScript
-
 
              
              let foo = false
 
-
              JavaScript
-
 
              
              Print / Console.log
 
-
              Jaksel script
-
 
              
              spill "Hello world"
 
-
              JavaScript
-
 
              
              console.log("Hello world")
 
-
              Jaksel script
-
 
              
              spill foo
 
-
              JavaScript
-
 
              
              console.log(foo)
 
-
-
              Condition
 
-
-
              Jaksel script
-
 
              
              kalo foo itu "Hello world"
@@ -148,10 +108,7 @@ Jaksel Script is a new programming language, very modern, easy to learn, using I
              udahan
              
 
-
-
              JavaScript
-
 
              
              // transform to
@@ -160,10 +117,7 @@ Jaksel Script is a new programming language, very modern, easy to learn, using I
              }
              
 
-
-
              Jaksel script
-
 
              
              kalo foo lebih gede 3
@@ -174,10 +128,7 @@ Jaksel Script is a new programming language, very modern, easy to learn, using I
                spill "its smaller than 3"
              udahan
 
-
-
              JavaScript
-
 
              
              // transform to
@@ -190,12 +141,9 @@ Jaksel Script is a new programming language, very modern, easy to learn, using I
              }
              
 
-
              Comparison :
 
-
              Jaksel script
-
 
              
                  itu: ' == ',
@@ -206,12 +154,9 @@ Jaksel Script is a new programming language, very modern, easy to learn, using I
                  lebih kecil sama dengan: ' <= '
              
 
-
              Loop
 
-
              Jaksel script
-
 
              
              fomo i endup 10
@@ -220,9 +165,7 @@ Jaksel Script is a new programming language, very modern, easy to learn, using I
                udahan
              udahan
 
-
              JavaScript
-
 
              
              // transform to
@@ -233,13 +176,9 @@ Jaksel Script is a new programming language, very modern, easy to learn, using I
              }
              
 
-
-
              Function
 
-
              Jaksel script
-
 
              
              so about my_story
@@ -258,13 +197,9 @@ Jaksel Script is a new programming language, very modern, easy to learn, using I
              call fungsi_param_banyak 3 4 5
              
 
-
-
              Async Function
 
-
              Jaksel script
-
 
              
              overthinking my_story
@@ -283,13 +218,9 @@ Jaksel Script is a new programming language, very modern, easy to learn, using I
              call fungsi_param_banyak 3 4 5
              
 
-
-
              Try Catch & Exception
 
-
              in "Jaksel script"
-
 
              
              trust issue
@@ -302,9 +233,7 @@ Jaksel Script is a new programming language, very modern, easy to learn, using I
              udahan
              
 
-
              In "JavaScript"
-
 
              
              // transform to
@@ -317,7 +246,6 @@ Jaksel Script is a new programming language, very modern, easy to learn, using I
                console.log("finish finally");
              }
              
-
 
              
 
