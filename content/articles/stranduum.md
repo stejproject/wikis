@@ -5,7 +5,7 @@ categories:
   - Informasi
   - Napak Tilas
 ---
-**"Straatngam",** **"Straat de Rum Dome/Duum",&#32;** nama julukan **"Stranduum"**adalah ==organisasi induk yang menaungi&#32;**"STEJ Project" dan "STEJ Conseptus"**memiliki akar yang sangat kuat dengan&#32;**sejarah kolonial/hukum maritim atau tata ruang lawas**== (mengingat kata _Straat_ dalam bahasa Belanda berarti "Jalan" atau "Selat", dan _Dome/Dom_ merujuk pada kubah, hukum kedaulatan, atau wilayah yurisdiksi kepemilikan aset).
+**"Straatngam",** **"Straat de Rum Dome/Duum"**,  nama julukan **"Stranduum"** adalah organisasi induk yang menaungi  **"STEJ Project"** dan **"STEJ Conseptus"** memiliki akar yang sangat kuat dengan  sejarah kolonial/hukum maritim atau tata ruang lawas **(mengingat kata&#32;_Straat_&#32;dalam bahasa Belanda berarti "Jalan" atau "Selat", dan&#32;_Dome/Dom_&#32;merujuk pada kubah, hukum kedaulatan, atau wilayah yurisdiksi kepemilikan aset).**
 
 ## Karya Unggulan
 
