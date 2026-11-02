@@ -1,0 +1,4 @@
+# Situs statis: buat index.json lalu terbitkan isi repo apa adanya (bukan Hugo).
+[build]
+  command = "node scripts/build-index.js"
+  publish = "."
