@@ -2,8 +2,6 @@ backend:
   name: github
   repo: stejproject/wikis
   branch: main
-  site_domain: vocal-peony-1258e6.netlify.app/
-  auth_scope: public_repo
   commit_messages:
     create: 'Buat halaman "{{slug}}"'
     update: 'Sunting halaman "{{slug}}"'
