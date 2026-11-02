@@ -2,6 +2,7 @@ backend:
   name: github
   repo: stejproject/wikis
   branch: main
+  base_url: https://sveltia-cms-auth.belajarbroedu.workers.dev
   commit_messages:
     create: 'Buat halaman "{{slug}}"'
     update: 'Sunting halaman "{{slug}}"'
