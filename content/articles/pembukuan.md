@@ -68,38 +68,37 @@ Buku harian untuk konteks pembukuan adalah catatan transaksi keuangan dengan dua
 
 ### Buku kas kecil
 
-Buku [[kas kecil]] adalah catatan pembelian yang relatif sangat kecil dibandingkan dengan pembelian-pembelian lainnya, biasa dikendalikan oleh [[sistem tetap]] (''imprest system'').
+Buku [kas kecil](https://id.wikipedia.org/wiki/Kas_kecil "Kas kecil") adalah catatan pembelian yang relatif sangat kecil dibandingkan dengan pembelian-pembelian lainnya, biasa dikendalikan oleh [sistem tetap](https://id.wikipedia.org/wiki/Sistem_tetap?action=edit&redlink=1 "Sistem tetap (halaman belum tersedia)") (_imprest system_).
 
-Droping KAS tanggal 24 oktober 2012 berjumlah 65 tabung.
-Telah didistribusikan 44 tabung.
- Laku terjual                10 tabung.
- Jumlah sisa                 11 tabung.
+Droping KAS tanggal 24 oktober 2012 berjumlah 65 tabung. Telah didistribusikan 44 tabung.
+
+| Laku terjual |  | 10 tabung. |
+| --- | --- | --- |
+| Jumlah sisa |  | 11 tabung. |
 
 ### Komputerisasi pembukuan
 
-Komputerisasi pembukuan menghilangkan banyak buku-buku kertas yang digunakan untuk mencatatkan semua transaksi dan biasanya memanfaatkan [[pembukuan berpasangan]]. [[Perangkat lunak]] [[komputer]] mempercepat proses pembukuan.
+Komputerisasi pembukuan menghilangkan banyak buku-buku kertas yang digunakan untuk mencatatkan semua transaksi dan biasanya memanfaatkan [pembukuan berpasangan](https://id.wikipedia.org/wiki/Pembukuan_berpasangan "Pembukuan berpasangan"). [Perangkat lunak](https://id.wikipedia.org/wiki/Perangkat_lunak "Perangkat lunak") [komputer](https://id.wikipedia.org/wiki/Komputer "Komputer") mempercepat proses pembukuan.
 
-### Pembukuan ''online'' 
+### Pembukuan _online_ 
 
-Pembukuan ''online'' memungkinkan data dan dokumen sumber disajikan di dalam aplikasi-aplikasi berbasis web, sehingga para ahli pembukuan dan akuntan dapat bekerja dari jarak yang berjauhan. Semua masukan yang dituliskan ke dalam perangkat lunak ''online'' dicatat dan disimpan di sebuah tempat yang jauh. Perangkat lunak ''online'' dapat diakses dari tempat manapun di dunia dan mengizinkan ahli pembukuan atau petugas pemasukan data bekerja di luar kantor. Kertas kerja dapat dikirimkan kepada ahli pembukuan atau perusahaan dapat [[pemindai|memindai]] dokumen bisnis ini dan mengunggahnya (''upload'') ke tempat yang aman atau ke aplikasi pembukuan ''online'' pada basis rutin. Cara ini memungkinkan ahli pembukuan mengerjakan tugasnya dari kejauhan sambil memutakhirkan buku-bukunya. Para pengguna teknologi ini di antaranya:
+Pembukuan _online_ memungkinkan data dan dokumen sumber disajikan di dalam aplikasi-aplikasi berbasis web, sehingga para ahli pembukuan dan akuntan dapat bekerja dari jarak yang berjauhan. Semua masukan yang dituliskan ke dalam perangkat lunak _online_ dicatat dan disimpan di sebuah tempat yang jauh. Perangkat lunak _online_ dapat diakses dari tempat manapun di dunia dan mengizinkan ahli pembukuan atau petugas pemasukan data bekerja di luar kantor. Kertas kerja dapat dikirimkan kepada ahli pembukuan atau perusahaan dapat [memindai](https://id.wikipedia.org/wiki/Pemindai "Pemindai") dokumen bisnis ini dan mengunggahnya (_upload_) ke tempat yang aman atau ke aplikasi pembukuan _online_ pada basis rutin. Cara ini memungkinkan ahli pembukuan mengerjakan tugasnya dari kejauhan sambil memutakhirkan buku-bukunya. Para pengguna teknologi ini di antaranya:
 
-- Pekerja yang sering berpindah tempat dapat melakukan [[pemindai]]an dan pengiriman rekening mereka semasih di jalan untuk mendapatkan penggantian dana lebih cepat.
-- Organisasi-organisasi yang memiliki banyak kantor dengan departemen akuntansi terpusat mendapatkan dokumen hasil [[pemindai]]an dan mengirimkannya ke kantor pusat.
+- Pekerja yang sering berpindah tempat dapat melakukan [pemindaian](https://id.wikipedia.org/wiki/Pemindai "Pemindai") dan pengiriman rekening mereka semasih di jalan untuk mendapatkan penggantian dana lebih cepat.
+- Organisasi-organisasi yang memiliki banyak kantor dengan departemen akuntansi terpusat mendapatkan dokumen hasil [pemindaian](https://id.wikipedia.org/wiki/Pemindai "Pemindai") dan mengirimkannya ke kantor pusat.
 
 ### Peristilahan
 
 | US English | Int. English | Indonesia |
 | --- | --- | --- |
-
-| Check | Cheque | Cek |:
-
+| Check | Cheque | Cek |
 | Checking Account | Current Account | Rekening koran |
 
 #### Jargon
 
-'''Footing''' atau '''casting''' atau '''totting''' adalah penjumlahan bilangan pada tabel berdasarkan lajur (dari atas ke bawah).
+**Footing** atau **casting** atau **totting** adalah penjumlahan bilangan pada tabel berdasarkan lajur (dari atas ke bawah).
 
-Sedangkan '''cross-footing''' atau '''cross-casting''' atau '''cross-totting''' adalah penjumlahan bilangan pada tabel berdasarkan baris (dari kiri ke kanan).
+Sedangkan **cross-footing** atau **cross-casting** atau **cross-totting** adalah penjumlahan bilangan pada tabel berdasarkan baris (dari kiri ke kanan).
 
 ## Lihat pula
 
