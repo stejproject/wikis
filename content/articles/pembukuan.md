@@ -3,6 +3,7 @@ title: Pembukuan
 categories:
   - Akuntansi
   - Pembukuan
+  - Budgeting
 ---
 **Pembukuan** ([bahasa Inggris](https://id.wikipedia.org/wiki/Bahasa_Inggris "Bahasa Inggris"): _Bookkeeping_) adalah suatu proses pencatatan transaksi keuangan ke dalam catatan akuntansi.[[1]]() Transaksi meliputi penjualan, pembelian, pendapatan, dan pengeluaran oleh perseorangan maupun organisasi. Pembukuan merupakan tugas akuntansi yang paling dasar dan biasanya dilakukan oleh seorang ahli pembukuan. Pembukuan berbeda dengan [akuntansi](https://id.wikipedia.org/wiki/Akuntansi "Akuntansi"). Proses akuntansi biasanya dilakukan oleh seorang [akuntan](https://id.wikipedia.org/wiki/Akuntan "Akuntan"). Akuntan membuat laporan dari transaksi keuangan tercatat yang ditulis oleh ahli pembukuan. Terdapat beberapa metode umum pembukuan, semisal [sistem pembukuan masukan-tunggal](https://id.wikipedia.org/wiki/Sistem_pembukuan_masukan-tunggal "Sistem pembukuan masukan-tunggal") dan [pembukuan berpasangan](https://id.wikipedia.org/wiki/Pembukuan_berpasangan "Pembukuan berpasangan"), kedua-dua sistem ini dapat dilihat sebagai pembukuan "nyata". Setiap proses yang melibatkan pencatatan transaksi keuangan adalah proses pembukuan.
 
@@ -35,42 +36,28 @@ Yang berikut ini adalah **contoh jurnal pendapatan dan pengeluaran** untuk pembu
 | 1044 | 19/7 | kas kecil |  | 100,00 |  |  |  |  |  |  |  | 100,00 |
 |  |  | **TOTAL** | 3.058,00 | 1.880,90 | 2.153,00 | 130,00 | 775,00 | 675,00 | 695,00 | 150,00 | 176,00 | 184,90 |
 
-==== Pembukuan akun tunggal ====
+### Pembukuan akun tunggal
+
 Pembukuan sederhana bagi perseorangan dan keluarga melibatkan pencatatan pendapatan, pengeluaran, dan neraca terkini di dalam buku catatan kas atau daftar akun pemeriksaan.
 
 Yang berikut ini adalah '''contoh daftar akun pemeriksaan'''
+AD = Deposito otomatis, AP = Pembayaran otomatis, ATM = Anjungan Tunai Mandiri, DC = Kartu Debit
 
-{| class="wikitable"
-|-
-! colspan="11"|AD=Deposito otomatis, AP=Pembayaran otomatis, ATM=Anjungan Tunai Mandiri, DC=Kartu Debitnm
-|- align="center" style="font-size:70%"
-| NKENTU{{br}}ATAU KODE
-| TANGGAL
-| DESKRIPSI TRANSAKSI
-| colspan="2"| BESARAN PEMBAYARAN
-| &nbsp;/&nbsp;
-| BEA
-| colspan="2"| BESARAN DEPOSITO
-| colspan="2"| NERACA
-|-
-| || || neraca maju || || || || || || ||align="right"| 1331 ||align="right"| 85
-|- style="background:lightgrey;"
-| AD || 15/3 || cek pembayaran || || || || ||align="right"| 1823 ||align="right"| 56 ||align="right"| 3155 ||align="right"| 41
-|-
-| AP || 26/3 || listrik ||align="right"| 104 ||align="right"| 31 || || || || ||align="right"| 3051 ||align="right"| 10
-|- style="background:lightgrey;"
-| 704 || 26/3 || pengurusan surat mobil ||align="right"| 58 ||align="right"| 50 || || || || ||align="right"| 2992 ||align="right"| 60
-|-
-| ATM || 30/3 || penarikan kas ||align="right"| 100 ||align="right"| 00 || ||1.00|| || ||align="right"| 2891 ||align="right"| 60
-|- style="background:lightgrey;"
-| DC || 2/4 || grosir ||align="right"| 127 ||align="right"| 35 || || || || ||align="right"| 2764 ||align="right"| 25
-|}
+| Nomor Cek / Kode | Tanggal | Deskripsi Transaksi | Pembayaran | / | Bea | Deposito | Neraca |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | neraca maju |  |  |  |  | 1331,85 |
+| AD | 15/3 | cek pembayaran |  |  |  | 1823,56 | 3155,41 |
+| AP | 26/3 | listrik | 104,31 |  |  |  | 3051,10 |
+| 704 | 26/3 | pengurusan surat mobil | 58,50 |  |  |  | 2992,60 |
+| ATM | 30/3 | penarikan kas | 100,00 |  | 1,00 |  | 2891,60 |
+| DC | 2/4 | grosir | 127,35 |  |  |  | 2764,25 |
 
 2 . Sistem berpasangan
 yang sering juga disebut continental . Continental adalah
 pencatatan transaksi dalam 2 bagian yaitu debit dan kredit
 
-== Buku harian ==
+#### Buku harian
+
 Buku harian untuk konteks pembukuan adalah catatan transaksi keuangan dengan dua ciri, yakni deskriptif (tertib-kejadian) dan kronologis (tertib-waktu). Buku harian kadang-kadang disebut pula '''buku masukan asli''' (''book of original entry''). Perincian buku harian harus dimasukkan secara resmi ke dalam jurnal untuk memudahkan proses penghantaran (''posting'') ke buku besar. Buku-buku harian meliputi:
 
 - Buku harian penjualan, untuk mencatatkan semua faktur penjualan.
@@ -79,7 +66,8 @@ Buku harian untuk konteks pembukuan adalah catatan transaksi keuangan dengan dua
 - Buku harian kredit pembelian, untuk mencatatkan semua nota kredit pembelian.
 - Buku harian kas, biasa dikenal sebagai buku kas, untuk mencatatkan semua dana yang diterima ataupun dikeluarkan. Buku harian kas dapat dibagi ke dalam dua jenis, yakni buku harian penerimaan untuk uang yang diterima, dan buku harian pengeluaran untuk uang yang dikeluarkan.
 
-== Buku kas kecil ==
+### Buku kas kecil
+
 Buku [[kas kecil]] adalah catatan pembelian yang relatif sangat kecil dibandingkan dengan pembelian-pembelian lainnya, biasa dikendalikan oleh [[sistem tetap]] (''imprest system'').
 
 Droping KAS tanggal 24 oktober 2012 berjumlah 65 tabung.
@@ -87,41 +75,41 @@ Telah didistribusikan 44 tabung.
  Laku terjual                10 tabung.
  Jumlah sisa                 11 tabung.
 
-== Komputerisasi pembukuan ==
+### Komputerisasi pembukuan
+
 Komputerisasi pembukuan menghilangkan banyak buku-buku kertas yang digunakan untuk mencatatkan semua transaksi dan biasanya memanfaatkan [[pembukuan berpasangan]]. [[Perangkat lunak]] [[komputer]] mempercepat proses pembukuan.
 
-=== Pembukuan ''online'' ===
+### Pembukuan ''online'' 
+
 Pembukuan ''online'' memungkinkan data dan dokumen sumber disajikan di dalam aplikasi-aplikasi berbasis web, sehingga para ahli pembukuan dan akuntan dapat bekerja dari jarak yang berjauhan. Semua masukan yang dituliskan ke dalam perangkat lunak ''online'' dicatat dan disimpan di sebuah tempat yang jauh. Perangkat lunak ''online'' dapat diakses dari tempat manapun di dunia dan mengizinkan ahli pembukuan atau petugas pemasukan data bekerja di luar kantor. Kertas kerja dapat dikirimkan kepada ahli pembukuan atau perusahaan dapat [[pemindai|memindai]] dokumen bisnis ini dan mengunggahnya (''upload'') ke tempat yang aman atau ke aplikasi pembukuan ''online'' pada basis rutin. Cara ini memungkinkan ahli pembukuan mengerjakan tugasnya dari kejauhan sambil memutakhirkan buku-bukunya. Para pengguna teknologi ini di antaranya:
 
 - Pekerja yang sering berpindah tempat dapat melakukan [[pemindai]]an dan pengiriman rekening mereka semasih di jalan untuk mendapatkan penggantian dana lebih cepat.
 - Organisasi-organisasi yang memiliki banyak kantor dengan departemen akuntansi terpusat mendapatkan dokumen hasil [[pemindai]]an dan mengirimkannya ke kantor pusat.
 
-== Peristilahan ==
-{| class="wikitable" border="1"
-|-
-! US English
-! Int. English
-! Indonesia
-|-
-| Check
-| Cheque
-| Cek
-|-
-| Checking Account
-| Current Account
-| Rekening koran
-|}
+### Peristilahan
 
-=== Jargon ===
+| US English | Int. English | Indonesia |
+| --- | --- | --- |
+
+| Check | Cheque | Cek |:
+
+| Checking Account | Current Account | Rekening koran |
+
+#### Jargon
+
 '''Footing''' atau '''casting''' atau '''totting''' adalah penjumlahan bilangan pada tabel berdasarkan lajur (dari atas ke bawah).
 
 Sedangkan '''cross-footing''' atau '''cross-casting''' atau '''cross-totting''' adalah penjumlahan bilangan pada tabel berdasarkan baris (dari kiri ke kanan).
 
-== Lihat pula ==
+## Lihat pula
 
-- [[Pembukuan berpasangan]]
-- [[Jurnal (akuntansi)]]
-- [[Buku besar]]
+- [Pembukuan berpasangan](https://id.wikipedia.org/wiki/Pembukuan_berpasangan "Pembukuan berpasangan")
+- [Jurnal (akuntansi)](https://id.wikipedia.org/wiki/Jurnal_(akuntansi) "Jurnal (akuntansi)")
+- [Buku besar](https://id.wikipedia.org/wiki/Buku_besar "Buku besar")
 
-== Catatan kaki dan referensi ==
-{{reflist}}
+## Catatan kaki dan referensi
+
+- ["Apa itu Pembukuan"](https://cerdasco.com/pembukuan/). _Cerdasco._ (dalam bahasa American English). 2019-11-12. Diakses tanggal 2020-10-29.
+- [↑](https://id.wikipedia.org/wiki/Pembukuan#cite_ref-2 "Ke atas") Williams, Jan R.; Susan F. Haka, Mark S. Bettner, Joseph V. Carcello (2008). _Financial & Managerial Accounting_. McGraw-Hill Irwin. pp. p.26. [ISBN 978-0-07-299650-0](https://id.wikipedia.org/wiki/Special:BookSources/9780072996500).
+- [↑](https://id.wikipedia.org/wiki/Pembukuan#cite_ref-3 "Ke atas") Pinson, Linda; Jerry Jinnett (1993). _Keeping the Books, Second Edition_. Upstart Publishing Company, Inc.. pp. 10. [ISBN 0-936894-47-4](https://id.wikipedia.org/wiki/Special:BookSources/0936894474).
+- [↑](https://id.wikipedia.org/wiki/Pembukuan#cite_ref-4 "Ke atas") Pinson, p.25.
