@@ -1,3 +1,9 @@
+---
+title: Akuntansi
+categories:
+  - Budgeting
+  - Wiki
+---
 ## Akuntansi [URL 🔗](https://id.wikipedia.org/wiki/Halaman_Utama)
 
 Akuntansi atau perakunan adalah proses mengidentifikasi, mengukur, mencatat, menggolongkan, meringkas, menganalisis, dan mengomunikasikan informasi mengenai kegiatan ekonomi suatu entitas. Informasi tersebut digunakan oleh manajemen dan pihak eksternal—seperti investor, pemberi pinjaman, kreditor, regulator, dan pemerintah—untuk menilai posisi keuangan, kinerja, arus kas, serta pertanggungjawaban [URL 🔗](https://id.wikipedia.org/wiki/Entitas_ekonomi)
@@ -14,7 +20,7 @@ Di tingkat internasional, IFRS Accounting Standards digunakan secara luas sebaga
 
 daya.[1][2] [URL 🔗](#page-0)
 
-*Potret Luca Pacioli, yang menerbitkan uraian sistematis pembukuan berpasangan pada 1494. [URL 🔗](https://id.wikipedia.org/wiki/Luca_Pacioli)*
+_Potret Luca Pacioli, yang menerbitkan uraian sistematis pembukuan berpasangan pada 1494.&#32;[URL 🔗](https://id.wikipedia.org/wiki/Luca_Pacioli)
 
 ## Terminologi dan ruang lingkup
 
@@ -42,15 +48,10 @@ computare, lebih umum
 
 akuntansi
 
-
 - sistem informasi, karena mengumpulkan dan mengolah data menjadi informasi bagi pengguna;
-
 - proses pengukuran, karena transaksi dan kejadian ekonomi diakui serta dinyatakan dengan ukuran moneter atau ukuran lain;
-
 - bahasa bisnis, karena menyediakan istilah dan format untuk mengomunikasikan keadaan ekonomi;
-
 - praktik profesional, karena penerapannya memerlukan standar, etika, kompetensi, dan pertimbangan;
-
 - bidang penelitian, karena metode, perilaku pengguna, regulasi, audit, teknologi, dan dampak sosialnya dipelajari secara ilmiah.
 
 Catatan akuntansi tidak identik dengan kenyataan ekonomi secara keseluruhan. Sebagian nilai berasal dari harga transaksi, tetapi bagian lain bergantung pada estimasi, asumsi, model, dan kebijakan akuntansi. Karena itu, angka yang disajikan perlu dibaca bersama metode pengukuran dan catatan penjelasannya.
@@ -64,21 +65,20 @@ Pengguna informasi akuntansi biasanya dikelompokkan menjadi:
 | Kelompok pengguna | Contoh kebutuhan informasi |
 | --- | --- |
 | Manajemen | Perencanaan, penganggaran, pengendalian biaya, penentuan harga, pengukuran |
-|   | kinerja, dan pengambilan keputusan operasional |
+|  | kinerja, dan pengambilan keputusan operasional |
 | Pemilik dan investor | Tingkat pengembalian, risiko, kemampuan menghasilkan laba dan arus kas, serta nilai |
-| perusahaan |   |
+| perusahaan |  |
 | Pemberi pinjaman dan | Likuiditas, solvabilitas, kemampuan membayar bunga dan pokok, serta nilai jaminan |
-| kreditor |   |
+| kreditor |  |
 | Pegawai dan serikat | Stabilitas organisasi, remunerasi, program pensiun, dan keberlanjutan pekerjaan |
-| pekerja |   |
+| pekerja |  |
 | Pemerintah dan | Perpajakan, kepatuhan, pengawasan pasar, statistik ekonomi, dan penggunaan dana |
-| regulator publik |   |
+| regulator publik |  |
 | Pemasok dan | Kelangsungan hubungan dagang dan kemampuan memenuhi kewajiban |
-| pelanggan |   |
+| pelanggan |  |
 | Masyarakat | Dampak ekonomi, sosial, lingkungan, dan penggunaan sumber daya |
 
 Kebutuhan pengguna dapat berbeda atau bertentangan. Laporan keuangan tujuan umum tidak dirancang untuk memberikan seluruh informasi yang mungkin dibutuhkan setiap pihak; pengguna dapat memerlukan data tambahan dari sumber lain.[2] [URL 🔗](#page-0)
-
 
 ## Konsep dasar
 
@@ -107,7 +107,6 @@ Debit berarti sisi kiri akun dan kredit berarti sisi kanan. Kedua istilah itu ti
 
 Sebagai contoh, pembelian persediaan secara kredit menambah persediaan melalui debit dan menambah utang usaha melalui kredit. Pembayaran utang mengurangi utang melalui debit dan mengurangi kas melalui kredit.
 
-
 Keseimbangan debit dan kredit membantu menemukan sebagian kesalahan pencatatan, tetapi tidak menjamin bahwa seluruh transaksi telah dicatat dengan nilai, akun, atau periode yang benar. Kesalahan yang seimbang dan kecurangan yang dirancang dengan sengaja dapat tetap tidak terdeteksi.
 
 ## Basis akrual dan basis kas
@@ -134,7 +133,6 @@ Materialitas merupakan aspek relevansi. Informasi bersifat material jika penghil
 
 Laporan keuangan pada umumnya disusun dengan asumsi bahwa entitas akan melanjutkan kegiatan usahanya pada masa mendatang. Ketika manajemen mengetahui adanya peristiwa atau kondisi yang menimbulkan ketidakpastian material atas kemampuan entitas mempertahankan kelangsungan usaha, dasar penyusunan dan pengungkapannya harus dipertimbangkan secara khusus. Asumsi kelangsungan usaha memengaruhi antara lain klasifikasi, pengukuran, penurunan nilai, dan penyajian aset serta liabilitas. [URL 🔗](https://id.wikipedia.org/wiki/Kelangsungan_usaha?action=edit&redlink=1)
 
-
 ## Proses dan siklus akuntansi
 
 Siklus akuntansi adalah rangkaian kegiatan untuk mengubah bukti transaksi menjadi laporan keuangan suatu periode.[10] Bentuknya berbeda menurut ukuran, industri, perangkat lunak, dan kebijakan entitas. [URL 🔗](#page-0)
@@ -144,28 +142,28 @@ Siklus akuntansi adalah rangkaian kegiatan untuk mengubah bukti transaksi menjad
 | Tahap | Proses | Hasil atau tujuan |
 | --- | --- | --- |
 | 1 | Mengidentifikasi transaksi dan | Menentukan transaksi yang perlu dicatat berdasarkan |
-|   | mengumpulkan dokumen sumber | faktur, kuitansi, kontrak, laporan bank, atau bukti lain |
+|  | mengumpulkan dokumen sumber | faktur, kuitansi, kontrak, laporan bank, atau bukti lain |
 | 2 | Menganalisis transaksi | Menentukan akun yang terpengaruh serta posisi debit dan |
-|   |   | kreditnya |
+|  |  | kreditnya |
 | 3 | Mencatat transaksi dalam jurnal | Menghasilkan catatan kronologis transaksi selama |
-|   |   | periode berjalan |
+|  |  | periode berjalan |
 | 4 | Memindahbukukan catatan ke buku | Mengelompokkan transaksi menurut masing-masing akun |
-| besar |   |   |
+| besar |  |  |
 | 5 | Menyusun neraca saldo | Memeriksa keseimbangan jumlah debit dan kredit |
-|   |   | sebelum penyesuaian |
+|  |  | sebelum penyesuaian |
 | 6 | Membuat jurnal penyesuaian | Mengakui akrual, penangguhan, penyusutan, estimasi, |
-|   |   | dan koreksi akhir periode |
+|  |  | dan koreksi akhir periode |
 | 7 | Menyusun neraca saldo setelah | Menyediakan saldo akun yang telah diperbarui sebagai |
-|   | penyesuaian | dasar laporan keuangan |
-|   |   | Menghasilkan laporan posisi keuangan, laba rugi dan |
+|  | penyesuaian | dasar laporan keuangan |
+|  |  | Menghasilkan laporan posisi keuangan, laba rugi dan |
 | 8 | Menyusun laporan keuangan | penghasilan komprehensif lain, perubahan ekuitas, arus |
-|   |   | kas, serta catatan |
+|  |  | kas, serta catatan |
 | 9 | Membuat jurnal penutup | Menutup akun pendapatan, beban, dan akun sementara |
-|   |   | lainnya |
+|  |  | lainnya |
 | 10 | Menyusun neraca saldo setelah | Memastikan akun permanen seimbang dan siap |
-| penutupan |   | digunakan pada periode berikutnya |
+| penutupan |  | digunakan pada periode berikutnya |
 | Opsional | Membuat jurnal pembalik | Membalik jurnal penyesuaian tertentu pada awal periode |
-|   |   | berikutnya untuk menyederhanakan pencatatan |
+|  |  | berikutnya untuk menyederhanakan pencatatan |
 
 Dalam bentuk alur, proses tersebut dapat diringkas sebagai berikut:
 
@@ -175,21 +173,15 @@ Dokumen sumber dapat berupa faktur, kuitansi, kontrak, laporan bank, daftar gaji
 
 Dalam sistem terkomputerisasi, jurnal, buku besar, dan laporan dapat berada dalam satu pangkalan data. Pemindahbukuan dan neraca saldo dapat dibuat otomatis, tetapi penilaian atas substansi transaksi, estimasi, penyesuaian, dan pengungkapan tetap memerlukan pertimbangan manusia.
 
-
 Laporan keuangan menyajikan ringkasan terstruktur mengenai sumber daya ekonomi, klaim, perubahan dalam sumber daya dan klaim, kinerja, serta arus kas entitas. Satu set laporan
 
 keuangan tujuan umum biasanya mencakup:
 
 - laporan posisi keuangan, yang menyajikan aset, liabilitas, dan ekuitas pada suatu tanggal;
-
 - laporan laba rugi dan penghasilan komprehensif lain, yang menyajikan pendapatan, beban, laba atau rugi, dan unsur penghasilan komprehensif lain untuk suatu periode;
-
 - laporan perubahan ekuitas, yang menjelaskan perubahan modal, saldo laba, cadangan, dan transaksi dengan pemilik;
-
 - laporan arus kas, yang menggolongkan arus kas dalam aktivitas operasi, investasi, dan pendanaan;
-
 - catatan atas laporan keuangan, yang menjelaskan kebijakan akuntansi, estimasi, rincian pos, risiko, komitmen, dan informasi penting lainnya;
-
 - informasi komparatif dan, dalam keadaan tertentu, laporan posisi keuangan pada awal periode komparatif.
 
 Laporan tersebut saling melengkapi. Laba tidak sama dengan kenaikan kas, dan nilai aset tidak selalu sama dengan harga yang dapat segera diperoleh melalui penjualan. Analisis yang hanya menggunakan satu laporan dapat menghasilkan kesimpulan yang tidak lengkap.
@@ -200,31 +192,30 @@ Di Indonesia, DSAK IAI telah mengesahkan PSAK 118: Penyajian dan Pengungkapan da
 
 kinerja tetapan manajemen.[11] [URL 🔗](#page-0)
 
-
 ## Bidang akuntansi
 
 | Bidang | Fokus utama |
 | --- | --- |
 | Akuntansi keuangan | Penyusunan informasi dan laporan keuangan bagi pengguna eksternal |
-|   | berdasarkan standar pelaporan |
+|  | berdasarkan standar pelaporan |
 | Akuntansi manajemen | Informasi keuangan dan nonkeuangan untuk perencanaan, pengendalian, |
-|   | evaluasi, serta keputusan internal |
+|  | evaluasi, serta keputusan internal |
 | Akuntansi biaya | Pengukuran dan analisis biaya produk, jasa, proses, aktivitas, atau pelanggan |
 | Akuntansi perpajakan | Perhitungan, pencatatan, perencanaan, dan pelaporan kewajiban pajak |
-|   | berdasarkan hukum perpajakan |
+|  | berdasarkan hukum perpajakan |
 | Akuntansi pemerintahan dan | Pengelolaan anggaran, aset, kewajiban, pendapatan, belanja, dan |
 | sektor publik | pertanggungjawaban lembaga publik |
 | Audit dan asurans | Pemeriksaan independen terhadap informasi, pengendalian, sistem, atau |
-|   | kepatuhan untuk meningkatkan keyakinan pengguna |
+|  | kepatuhan untuk meningkatkan keyakinan pengguna |
 | Akuntansi forensik | Analisis akuntansi untuk penyelidikan kecurangan, sengketa, klaim, dan |
-| proses hukum |   |
+| proses hukum |  |
 | Sistem informasi akuntansi | Perancangan proses, data, perangkat lunak, pengendalian, dan teknologi |
-|   | yang mendukung informasi akuntansi |
+|  | yang mendukung informasi akuntansi |
 | Akuntansi dana dan nirlaba | Pelacakan sumber daya yang penggunaannya dibatasi oleh pemberi dana, |
-|   | hukum, atau tujuan tertentu |
+|  | hukum, atau tujuan tertentu |
 | Akuntansi antarperusahaan | Pencatatan dan eliminasi transaksi antara entitas dalam satu kelompok usaha |
 | Akuntansi sosial, lingkungan, dan | Pengukuran dan pelaporan dampak, risiko, serta kinerja sosial dan lingkungan |
-| keberlanjutan |   |
+| keberlanjutan |  |
 
 Pembagian bidang tidak selalu tegas. Akuntansi biaya banyak digunakan dalam akuntansi manajemen, sistem informasi mendukung seluruh cabang, dan akuntansi keberlanjutan dapat berhubungan dengan pelaporan keuangan maupun laporan nonkeuangan.
 
@@ -237,7 +228,6 @@ Akuntansi keuangan berfokus pada pengakuan, pengukuran, penyajian, dan pengungka
 ## Akuntansi manajemen
 
 Akuntansi manajemen menghasilkan informasi keuangan dan nonkeuangan untuk perencanaan, pengendalian, evaluasi, dan pengambilan keputusan internal. Informasinya dapat berupa anggaran, prakiraan, analisis margin, biaya pelanggan, indikator operasional, pengukuran kinerja, dan evaluasi investasi. Berbeda dari pelaporan keuangan eksternal, format laporan manajemen pada umumnya tidak ditentukan oleh SAK.
-
 
 ## Akuntansi biaya
 
@@ -267,49 +257,47 @@ Akuntansi dana mengelompokkan sumber daya berdasarkan pembatasan hukum, kontrak,
 
 Akuntansi kampanye politik berkaitan dengan sistem pencatatan dan pengendalian penerimaan serta pengeluaran kampanye untuk memenuhi ketentuan hukum dan pelaporan dana politik. Bidang khusus ini telah dibahas dalam literatur profesi sejak setidaknya 1970-an.[13] [URL 🔗](#page-0)
 
-
 ## Akuntansi sosial, lingkungan, dan keberlanjutan
 
 Akuntansi sosial dan lingkungan berusaha mengukur dampak, biaya, risiko, peluang, dan kinerja yang berkaitan dengan lingkungan maupun masyarakat. Bidang ini mencakup antara lain akuntansi karbon, biaya lingkungan, pelaporan emisi, dan keterkaitan informasi keberlanjutan dengan kondisi keuangan.
 
 ## Sejarah
 
-|   | Garis waktu ringkas perkembangan akuntansi |   |
+|  | Garis waktu ringkas perkembangan akuntansi |  |
 | --- | --- | --- |
 | Periode | Peristiwa | Arti penting |
 | sekitar | Token tanah liat, bulla, dan catatan awal | Membantu pencatatan barang, jumlah, tenaga |
 | 8000–3200 | berkembang di Mesopotamia | kerja, dan kewajiban sebelum terbentuknya |
-| SM |   | sistem tulisan lengkap |
-|   | Administrasi Romawi menggunakan | Menunjukkan penggunaan pencatatan keuangan |
+| SM |  | sistem tulisan lengkap |
+|  | Administrasi Romawi menggunakan | Menunjukkan penggunaan pencatatan keuangan |
 | Abad ke-1 M | catatan pendapatan, pengeluaran, kas, | untuk pemerintahan wilayah yang luas |
-|   | aset, dan kewajiban |   |
-|   |   | Membantu penyebaran angka Hindu–Arab dan |
+|  | aset, dan kewajiban |  |
+|  |  | Membantu penyebaran angka Hindu–Arab dan |
 | 1202 | Fibonacci menerbitkan Liber Abaci | metode hitung yang berguna bagi perdagangan |
-|   |   | Eropa |
-|   | Buku besar perusahaan Giovanni Farolfi | Merupakan salah satu bukti tertua sistem |
+|  |  | Eropa |
+|  | Buku besar perusahaan Giovanni Farolfi | Merupakan salah satu bukti tertua sistem |
 | 1299–1300 | mencatat transaksi dengan pembukuan | pembukuan berpasangan yang masih bertahan |
-|   | berpasangan |   |
-|   | Benedetto Cotrugli menyelesaikan uraian | Menjadi salah satu naskah awal yang |
+|  | berpasangan |  |
+|  | Benedetto Cotrugli menyelesaikan uraian | Menjadi salah satu naskah awal yang |
 | 1458 | mengenai pembukuan berpasangan | menjelaskan metode tersebut, meskipun baru |
-|   |   | diterbitkan pada 1573 |
+|  |  | diterbitkan pada 1573 |
 | 1494 | Luca Pacioli menerbitkan Summa de | Menyebarkan uraian sistematis pembukuan |
-| arithmetica |   | berpasangan melalui teknologi percetakan |
+| arithmetica |  | berpasangan melalui teknologi percetakan |
 | Abad ke-18 | Revolusi Industri dan pertumbuhan | Mendorong perkembangan akuntansi biaya, |
 | dan ke-19 | perusahaan saham gabungan | pelaporan perusahaan, dan audit independen |
 | 1880 | Institute of Chartered Accountants in | Menandai pengorganisasian profesi akuntansi |
-|   | England and Wales memperoleh piagam | modern |
-|   | Badan standar, regulasi pasar modal, | Membentuk pelaporan keuangan dan audit |
+|  | England and Wales memperoleh piagam | modern |
+|  | Badan standar, regulasi pasar modal, | Membentuk pelaporan keuangan dan audit |
 | Abad ke-20 | komputer, dan firma internasional | modern |
-|   | berkembang |   |
+|  | berkembang |  |
 | 2001 | International Accounting Standards Board | Melanjutkan pengembangan standar pelaporan |
-|   | mulai beroperasi | keuangan internasional |
+|  | mulai beroperasi | keuangan internasional |
 
 ## Pencatatan kuno
 
 Asal-usul akuntansi berkaitan erat dengan perkembangan penghitungan, kepemilikan, perdagangan, perpajakan, dan tulisan. Token tanah liat dan bulla di Mesopotamia digunakan untuk merepresentasikan barang dan jumlah sebelum munculnya tulisan lengkap. Catatan kuil dan istana kemudian mencatat persediaan, tenaga kerja, hasil pertanian, serta kewajiban.[14] [URL 🔗](#page-0)
 
 Bukti pencatatan dan pemeriksaan juga ditemukan di Mesir, Babilonia, Persia, Yunani, India, dan Roma. Pemerintah Romawi memiliki catatan pendapatan, pengeluaran, kas, kewajiban, dan aset yang mendukung pengelolaan wilayah luas.[15] [URL 🔗](#page-0)
-
 
 Sistem kuno tidak sama dengan akuntansi perusahaan modern. Catatan sering bertujuan menjaga aset penguasa, menghitung pajak, atau mempertanggungjawabkan pengelola kepada pemilik, bukan mengukur laba dan posisi keuangan berdasarkan standar umum.
 
@@ -337,7 +325,6 @@ Profesi akuntansi mulai terorganisasi pada abad ke-19, terutama melalui pekerjaa
 
 Pada abad ke-20, pasar modal, perpajakan, regulasi, komputer, dan perusahaan multinasional mendorong pembentukan badan standar serta jaringan kantor akuntan internasional. Skandal perusahaan seperti Enron dan runtuhnya Arthur Andersen pada awal abad ke-21 memperkuat
 
-
 perhatian terhadap independensi auditor, tata kelola, pengendalian internal, dan pengawasan profesi.
 
 ## Perkembangan di Indonesia
@@ -356,21 +343,20 @@ Pada 2025–2026, DSAK IAI terus memperbarui SAK. Revisi PSAK 338: Kombinasi Bis
 
 DSAK IAI juga telah mengesahkan PSAK 118: Penyajian dan Pengungkapan dalam Laporan Keuangan dan PSAK 119: Entitas Anak Tanpa Akuntabilitas Publik: Pengungkapan, yang keduanya berlaku efektif pada 1 Januari 2027.[11][24] [URL 🔗](#page-0)
 
-*Garis waktu perkembangan standar akuntansi di Indonesia*
+_Garis waktu perkembangan standar akuntansi di Indonesia_
 
 | Tahun | Perkembangan |
 | --- | --- |
 | 1973 | Penyusunan Prinsip Akuntansi Indonesia mulai dilembagakan oleh IAI |
 | 1994 | Prinsip Akuntansi Indonesia dikodifikasi menjadi Standar Akuntansi Keuangan |
 | 2009– | Program konvergensi IFRS dipercepat dan tahap penting implementasi SAK berbasis IFRS |
-| 2012 dilakukan |   |
+| 2012 dilakukan |  |
 | 2018 | PSAK 69: Agrikultur dan amendemen PSAK 16 tentang tanaman produktif mulai efektif[25] |
 | 2024 | KSPKI empat pilar dan penomoran baru PSAK/ISAK berlaku; PSAK 69 menjadi PSAK 241 |
 | 2025 | SAK Indonesia untuk Entitas Privat mulai efektif; PSAK 117: Kontrak Asuransi menjadi bagian |
-| penting SAK efektif 2025 |   |
+| penting SAK efektif 2025 |  |
 | 2026 | Revisi PSAK 338 dan sejumlah amendemen instrumen keuangan mulai efektif |
 | 2027 | PSAK 118, PSAK 119, PSPK 1, dan PSPK 2 dijadwalkan mulai efektif |
-
 
 ## Akuntansi agrikultur dan perkebunan di Indonesia
 
@@ -393,7 +379,6 @@ Pengaturan utama untuk aktivitas agrikultur korporasi saat ini adalah PSAK 241: 
 Tanaman produktif seperti kelapa sawit dan karet dikecualikan dari PSAK 241 dan perlakuan akuntansinya mengacu pada PSAK 216: Aset Tetap. Tanaman produktif adalah tanaman hidup yang digunakan dalam produksi atau penyediaan produk agrikultur, diharapkan menghasilkan lebih dari satu periode, dan sangat jarang dijual sebagai produk agrikultur selain sebagai sisa insidental. Produk agrikultur yang tumbuh pada tanaman produktif sampai titik panen tetap berada dalam ruang lingkup PSAK 241.[31][32] [URL 🔗](#page-0)
 
 Setelah panen, hasil yang memenuhi definisi persediaan umumnya tunduk pada PSAK 202: Persediaan. Standar lain yang sering relevan dalam perusahaan perkebunan meliputi PSAK 113: Pengukuran Nilai Wajar, PSAK 216: Aset Tetap, PSAK 223: Biaya Pinjaman, PSAK 236:
-
 
 Penurunan Nilai Aset, PSAK 115: Pendapatan dari Kontrak dengan Pelanggan, PSAK 116: Sewa, serta standar mengenai instrumen keuangan, pajak, imbalan kerja, provisi, dan pihak berelasi.[33] [URL 🔗](#page-0)
 
@@ -418,7 +403,6 @@ Perubahan standar terus berlangsung. Sepanjang 2025, DSAK mengesahkan PSAK 118 d
 Standar audit berbeda dari standar akuntansi. Standar akuntansi digunakan untuk menyusun informasi, sedangkan standar audit mengatur bagaimana auditor merencanakan pekerjaan, menilai risiko salah saji material, memperoleh bukti, mengevaluasi hasil, berkomunikasi dengan pihak tata kelola, dan menyatakan kesimpulan.
 
 Di Indonesia, Institut Akuntan Publik Indonesia (IAPI) menerbitkan Standar Profesional Akuntan Publik (SPAP), yang mencakup Standar Audit, Standar Perikatan Reviu, Standar Perikatan Asurans, Standar Jasa Terkait, dan standar manajemen mutu.[36] [URL 🔗](https://id.wikipedia.org/wiki/Institut_Akuntan_Publik_Indonesia)
-
 
 Audit laporan keuangan memberikan keyakinan memadai, bukan jaminan mutlak, bahwa laporan secara keseluruhan bebas dari salah saji material akibat kecurangan atau kesalahan. Keterbatasan audit berasal dari penggunaan pengujian, estimasi, pertimbangan profesional, keterbatasan bukti, kemungkinan kolusi atau pemalsuan, dan kemampuan manajemen
 
@@ -448,7 +432,6 @@ Perubahan standar dan teknologi membuat pembelajaran berkelanjutan menjadi bagia
 
 [[40]](#page-0)
 
-
 ## Sistem informasi dan teknologi
 
 Sistem informasi akuntansi menggabungkan manusia, prosedur, data, perangkat lunak, infrastruktur, dan pengendalian untuk mencatat transaksi serta menghasilkan informasi. Sistem dapat berupa spreadsheet sederhana, perangkat lunak akuntansi, sistem perencanaan sumber daya perusahaan (ERP), layanan awan, atau platform yang terhubung dengan perbankan, penjualan, persediaan, penggajian, dan perpajakan.[41] [URL 🔗](https://id.wikipedia.org/wiki/Sistem_informasi_akuntansi)
@@ -475,7 +458,6 @@ Manajemen laba berada dalam spektrum antara penggunaan pertimbangan yang diizink
 
 insentif manajemen, materialitas, dan kelengkapan pengungkapan.
 
-
 Audit memberikan keyakinan memadai, bukan jaminan mutlak, bahwa laporan bebas dari salah saji material. Keterbatasan timbul dari penggunaan pengujian sampel, pertimbangan, estimasi, kemungkinan kolusi, pemalsuan dokumen, dan kemampuan manajemen mengesampingkan pengendalian.
 
 ## Skandal akuntansi
@@ -498,7 +480,6 @@ Penelitian akuntansi mempelajari cara informasi dibuat, diatur, digunakan, diaud
 
 Metode penelitian meliputi analisis arsip dan data pasar, eksperimen, survei, studi lapangan, studi kasus, pemodelan analitis, penelitian historis, dan pendekatan interpretatif. Penelitian dapat bersifat normatif—membahas bagaimana akuntansi seharusnya dilakukan—atau positif dan empiris, yang menjelaskan serta menguji praktik yang berlangsung.
 
-
 Akuntansi juga dikaji sebagai praktik sosial. Klasifikasi, angka, dan standar dapat memengaruhi keputusan organisasi, hubungan kekuasaan, penilaian kinerja, serta alokasi sumber daya, bukan sekadar mencerminkan kegiatan ekonomi secara pasif.[14] [URL 🔗](#page-0)
 
 ## Keterbatasan dan perdebatan
@@ -512,158 +493,87 @@ Karena itu, laporan akuntansi biasanya dianalisis bersama informasi operasional,
 ## Lihat pula
 
 - [Daftar topik akuntansi](https://id.wikipedia.org/wiki/Daftar_topik_akuntansi)
-
 - [Sejarah akuntansi](https://id.wikipedia.org/wiki/Sejarah_akuntansi?action=edit&redlink=1)
-
 - [Pembukuan](https://id.wikipedia.org/wiki/Pembukuan)
-
 - [Persamaan akuntansi](https://id.wikipedia.org/wiki/Persamaan_akuntansi)
-
 - [Laporan keuangan](https://id.wikipedia.org/wiki/Laporan_keuangan)
-
 - [Analisis laporan keuangan](https://id.wikipedia.org/wiki/Analisis_laporan_keuangan)
-
 - [Pengendalian internal](https://id.wikipedia.org/wiki/Pengendalian_internal)
-
 - [Audit keuangan](https://id.wikipedia.org/wiki/Audit_keuangan)
-
 - [Standar Pelaporan Keuangan Internasional](https://id.wikipedia.org/wiki/Standar_Pelaporan_Keuangan_Internasional)
-
 - [Standar Akuntansi Keuangan](https://id.wikipedia.org/wiki/Standar_Akuntansi_Keuangan)
-
 - [Akuntansi agrikultur](https://id.wikipedia.org/wiki/Akuntansi_agrikultur?action=edit&redlink=1)
-
 - [Aset biologis](https://id.wikipedia.org/wiki/Aset_biologis?action=edit&redlink=1)
-
 - [Ikatan Akuntan Indonesia](https://id.wikipedia.org/wiki/Ikatan_Akuntan_Indonesia)
-
 - [Akuntan publik](https://id.wikipedia.org/wiki/Akuntan_publik)
-
 - [Perangkat lunak akuntansi](https://id.wikipedia.org/wiki/Perangkat_lunak_akuntansi?action=edit&redlink=1)
 
 ## Referensi
 
 - 1. Needles, Belverd E.; Powers, Marian (2013). Principles of Financial Accounting (Edisi 12). Cengage Learning. ISBN 978-1-285-60846-4. [URL 🔗](https://id.wikipedia.org/wiki/Istimewa:Sumber_buku/978-1-285-60846-4)
-
 - 2. "Conceptual Framework for Financial Reporting". IFRS Foundation. Maret 2018. Diakses tanggal 2 Agustus 2026. [URL 🔗](https://www.ifrs.org/issued-standards/list-of-standards/conceptual-framework/)
-
 - 3. Lunt, Henry (2006). Fundamentals of Financial Accounting. Elsevier. ISBN 978-0-7506-8033-2. [URL 🔗](https://id.wikipedia.org/wiki/Istimewa:Sumber_buku/978-0-7506-8033-2)
-
 - 4. "Why global accounting standards?". IFRS Foundation. Diakses tanggal 15 Agustus 2026. [URL 🔗](https://www.ifrs.org/use-around-the-world/why-global-accounting-standards/)
-
 - 5. "Kerangka Standar Pelaporan Keuangan Indonesia". Ikatan Akuntan Indonesia. Diakses tanggal 15 Agustus 2026. [URL 🔗](https://web.iaiglobal.or.id/SAK-IAI/Kerangka%20Standar%20Pelaporan%20Keuangan%C2%A0Indonesia)
-
-
 - 6. Baladouni, Vahé (1984). "Etymological Observations on Some Accounting Terms". The Accounting Historians Journal. 11 (2): 101–109. JSTOR 40697830. [URL 🔗](https://www.jstor.org/stable/40697830)
-
 - 7. "Berita Pengesahan Kerangka Konseptual Pelaporan Keuangan dan Standar Akuntansi Keuangan". Ikatan Akuntan Indonesia. Diakses tanggal 2 Agustus 2026. [URL 🔗](https://web.iaiglobal.or.id/Berita-IAI/detail/-berita-pengesahan-kerangka-konseptual-pelaporan-keuangan-dan-standar-akuntansi-keuangan)
-
 - 8. Weygandt, Jerry J.; Kimmel, Paul D.; Kieso, Donald E. (2010). Accounting Principles. John Wiley & Sons. ISBN 978-0-470-38667-5. [URL 🔗](https://id.wikipedia.org/wiki/Istimewa:Sumber_buku/978-0-470-38667-5)
-
 - 9. "Karakteristik Kualitatif Laporan Keuangan". Ikatan Akuntan Indonesia. Diakses tanggal 2 Agustus 2026. [URL 🔗](https://web.iaiglobal.or.id/assets/materi/Sertifikasi/CA/modul/pk_19/files/basic-html/page25.html)
-
 - 10. García Benau, María Antonia (2011). "El método contable y las técnicas de registro en partida doble: el ciclo contable". Ariel. ISBN 978-84-344-4544-4. Introducción a la contabilidad financiera: un enfoque internacional.
-
 - 11. "Pengesahan PSAK 118: Penyajian dan Pengungkapan dalam Laporan Keuangan". Ikatan Akuntan Indonesia. 18 Juni 2025. Diakses tanggal 15 Agustus 2026. [URL 🔗](https://web.iaiglobal.or.id/Berita-IAI/detail/pengesahan_psak_118_penyajian_dan_pengungkapan_dalam_laporan_keuangan)
-
 - 12. "PMK 85 Tahun 2025 - Pernyataan Standar Akuntansi Pemerintahan Berbasis Akrual Nomor 20 Agrikultur". JDIH Kementerian Keuangan Republik Indonesia. 10 Desember 2025. Diakses tanggal 15 Agustus 2026. [URL 🔗](https://jdih.kemenkeu.go.id/dok/pmk-85-tahun-2025)
-
 - 13. Wagman, Barry E. (Maret 1976). "Political campaign accounting—New opportunities for the CPA". Journal of Accountancy. 141 (3): 36. [URL 🔗](https://archive.org/details/sim_journal-of-accountancy_1976-03_141_3/page/3)
-
 - 14. Robson, Keith (1992). "Accounting Numbers as "Inscription": Action at a Distance and the Development of Accounting". Accounting, Organizations and Society. 17 (7): 685–708. doi:10.1016/0361-3682(92)90019-O. [URL 🔗](https://archive.org/details/sim_accounting-organizations-and-society_1992-10_17_7/page/685)
-
 - 15. Oldroyd, David (1995). "The Role of Accounting in Public Expenditure and Monetary Policy in the First Century AD Roman Empire". The Accounting Historians Journal. 22 (2): 117–129. doi:10.2308/0148-4184.22.2.117. [URL 🔗](https://archive.org/details/sim_accounting-historians-journal_1995-12_22_2/page/117)
-
 - 16. Lee, Geoffrey A. (1977). "The Coming of Age of Double Entry: The Giovanni Farolfi Ledger of 1299–1300". The Accounting Historians Journal. 4 (2): 79–95. Diakses tanggal 2 Agustus 2026. [URL 🔗](https://egrove.olemiss.edu/aah_journal/vol4/iss2/6/)
-
 - 17. Cotrugli, Benedetto (2017) [1458]. Carraro, Carlo; Favero, Giovanni (ed.). The Book of the Art of Trade. Palgrave Macmillan. doi:10.1007/978-3-319-39969-0. ISBN 978-3-319-39969-0. [URL 🔗](https://doi.org/10.1007%2F978-3-319-39969-0)
-
 - 18. Lauwers, Luc; Willekens, Marleen (1994). "Five Hundred Years of Bookkeeping: A Portrait of Luca Pacioli". 2 Agustus 2026. Tijdschrift voor Economie en Management. 39 (3): 289–304. Diakses tanggal [URL 🔗](https://lirias.kuleuven.be/retrieve/559690)
-
 - 19. "Timeline of the History of ICAEW and the Accountancy Profession". Institute of Chartered Accountants in England and Wales. Diakses tanggal 2 Agustus 2026. [URL 🔗](https://www.icaew.com/library/historical-resources/timeline)
-
 - 20. "Sejarah Perkembangan Standar Akuntansi Keuangan di Indonesia". Ikatan Akuntan Indonesia. Diakses tanggal 15 Agustus 2026. [URL 🔗](https://web.iaiglobal.or.id/SAK-IAI/Sejarah%2520Perkembangan)
-
 - 21. "Penomoran PSAK dan ISAK dalam SAK Indonesia". Ikatan Akuntan Indonesia. 13 November 2023. Diakses tanggal 15 Agustus 2026. [URL 🔗](https://web.iaiglobal.or.id/Berita-IAI/detail/penomoran_psak_dan_isak_dalam_sak_indonesia)
-
 - 22. "Telah Terbit DSAK Terkini Edisi Desember 2025". Ikatan Akuntan Indonesia. 30 Januari 2026. Diakses tanggal 15 Agustus 2026. [URL 🔗](https://web.iaiglobal.or.id/Berita-IAI/detail/telah_terbit_dsak_terkini_edisi_desember_2025)
-
 - 23. "Pengesahan Revisi PSAK 338". Ikatan Akuntan Indonesia. 26 November 2025. Diakses tanggal 15 Agustus 2026. [URL 🔗](https://web.iaiglobal.or.id/Berita-IAI/detail/pengesahan_revisi_psak_338)
-
 - 24. "Pengesahan PSAK 119: Entitas Anak Tanpa Akuntabilitas Publik: Pengungkapan". Ikatan Akuntan Indonesia. 12 September 2025. Diakses tanggal 15 Agustus 2026. [URL 🔗](https://web.iaiglobal.or.id/Berita-IAI/detail/pengesahan_psak_119_entitas_anak_tanpa_akuntabilitas_publik_pengungkapan)
-
 - 25. "Berita Pengesahan PSAK 69 dan Amandemen PSAK 16". Ikatan Akuntan Indonesia. 1 Februari 2016. Diakses tanggal 15 Agustus 2026. [URL 🔗](https://web.iaiglobal.or.id/Berita-IAI/detail/berita-pengesahan-psak-69-dan-amandemen-psak-16)
-
 - 26. "Pedoman Akuntansi BUMN Perkebunan". Kementerian Negara BUMN dan Ikatan Akuntan Indonesia. 2008. Diakses tanggal 15 Agustus 2026. [URL 🔗](https://id.scribd.com/document/24395588/Bk-PA-BUMN-Perkebunan-print-A4)
-
 - 27. "Pedoman Akuntansi BUMN Perkebunan Berbasis IFRS". PT Perkebunan Nusantara I–XIV, PT Rajawali Nusantara Indonesia, dan Ikatan Akuntan Indonesia. 2011. Diakses tanggal 15 Agustus 2026. [URL 🔗](https://id.scribd.com/document/118299537/Pedoman-Akuntansi-Perkebunan-BUMN-05122011)
-
-
 - 28. Aliyya, Dieni Nurul; Sumiyana (2019). "Desain Manajemen Kos Kebun: Pedoman Akuntansi BUMN Perkebunan Berbasis IFRS yang Tidak Selaras dengan Statements on Auditing Standards (SAS) No. 101". ABIS: Accounting and Business Information Systems Journal. 7 (3). doi:10.22146/abis.v7i3.58851. [URL 🔗](https://doi.org/10.22146%2Fabis.v7i3.58851)
-
 - 29. "Silabus USPSAK". Ikatan Akuntan Indonesia. Diakses tanggal 15 Agustus 2026. [URL 🔗](https://web.iaiglobal.or.id/Sertifikasi-IAI/Silabus%20USPSAK)
-
 - 30. "PSAK 69: Agrikultur". Ikatan Akuntan Indonesia. Diakses tanggal 15 Agustus 2026. [URL 🔗](https://web.iaiglobal.or.id/PSAK-Umum/79)
-
 - 31. "Modul CA – Pelaporan Korporat: Tanaman Produktif". Ikatan Akuntan Indonesia. Diakses tanggal 15 Agustus 2026. [URL 🔗](https://web.iaiglobal.or.id/assets/materi/Sertifikasi/CA/modul/pk_19/files/basic-html/page129.html)
-
 - 32. "Modul CA – Pelaporan Korporat: PSAK 241 Agrikultur". Ikatan Akuntan Indonesia. Diakses tanggal 15 Agustus 2026. [URL 🔗](https://web.iaiglobal.or.id/assets/materi/Sertifikasi/CA/modul/pk_19/files/basic-html/page147.html)
-
 - 33. "Silabus USPSAK – Tabel SAK Efektif 2025". Ikatan Akuntan Indonesia. Diakses tanggal 15 Agustus 2026. [URL 🔗](https://web.iaiglobal.or.id/Sertifikasi-IAI/Silabus%20USPSAK)
-
 - 34. "Laporan Keuangan Konsolidasian PT Astra Agro Lestari Tbk dan Entitas Anak, 31 Desember 2025 dan 2024" (PDF). PT Astra Agro Lestari Tbk. 20 Februari 2026. Diakses tanggal 15 Agustus 2026. [URL 🔗](https://www.astra-agro.co.id/wp-content/uploads/2026/02/AALI-LK-Tahunan-2025.pdf)
-
 - 35. "Introduction to the IFRS Foundation". IFRS Foundation. Diakses tanggal 15 Agustus 2026. [URL 🔗](https://www.ifrs.org/sustainability/knowledge-hub/introduction-to-the-ifrs-foundation/)
-
 - 36. "Standar Profesional Akuntan Publik". Institut Akuntan Publik Indonesia. Diakses tanggal 15 Agustus 2026. [URL 🔗](https://iapi.or.id/standar-profesional-akuntan-publik/)
-
 - 37. "Undang-Undang Nomor 5 Tahun 2011 tentang Akuntan Publik". Kementerian Keuangan Republik Indonesia. Diakses tanggal 2 Agustus 2026. [URL 🔗](https://jdih.kemenkeu.go.id/dok/uu-5-tahun-2011/view)
-
 - 38. "Accountancy Firms". Institute of Chartered Accountants in England and Wales. Diakses tanggal 2 Agustus 2026. [URL 🔗](https://www.icaew.com/about-icaew/what-is-chartered-accountancy/accountancy-firms)
-
 - 39. "PMK 216/PMK.01/2017 tentang Akuntan Beregister". JDIH Kementerian Keuangan Republik Indonesia. Diakses tanggal 15 Agustus 2026. [URL 🔗](https://jdih.kemenkeu.go.id/dok/216-pmk-01-2017)
-
 - 40. "Ikatan Akuntan Indonesia Tetapkan Kewajiban PPL Kode Etik bagi Anggota". Ikatan Akuntan Indonesia. 1 September 2025. Diakses tanggal 15 Agustus 2026. [URL 🔗](https://web.iaiglobal.or.id/Berita-IAI/detail/siaran_pers_-_ikatan_akuntan_indonesia_tetapkan_kewajiban_ppl_kode_etik_bagi_anggota)
-
 - 41. Romney, Marshall B.; Steinbart, Paul J. (2018). Accounting Information Systems (Edisi 14). Pearson. ISBN 978-0-13-447402-1. [URL 🔗](https://archive.org/details/accountinginform0000romn_e0w5)
-
 - 42. "Telah Terbit Kode Etik Akuntan Indonesia 2025". Ikatan Akuntan Indonesia. 24 April 2026. Diakses tanggal 15 Agustus 2026. [URL 🔗](https://web.iaiglobal.or.id/Berita-IAI/detail/telah_terbit_kode_etik_akuntan_indonesia_2025)
-
 - 43. "Standar Pengungkapan Keberlanjutan Efektif Per 1 Januari 2027". Ikatan Akuntan Indonesia. 26 Juni 2025. Diakses tanggal 15 Agustus 2026. [URL 🔗](https://web.iaiglobal.or.id/Berita-IAI/detail/standar_pengungkapan_keberlanjutan_efektif_per_1_januari_2027)
-
 - 44. "DSK IAI Sahkan Standar Pengungkapan Keberlanjutan: PSPK 1 dan PSPK 2". Ikatan Akuntan Indonesia. 2 Juli 2025. Diakses tanggal 15 Agustus 2026. [URL 🔗](https://web.iaiglobal.or.id/Berita-IAI/detail/dsk_iai_sahkan_standar_pengungkapan_keberlanjutan_pspk_1_dan_pspk_2)
 
 ## Bacaan lebih lanjut
 
 - Edwards, John Richard; Walker, Stephen P., ed. (2009). The Routledge Companion to Accounting History. Routledge. ISBN 978-0-415-41094-6. [URL 🔗](https://archive.org/details/isbn_9780415410946)
-
 - Horngren, Charles T.; Datar, Srikant M.; Rajan, Madhav V. (2021). Cost Accounting: A Managerial Emphasis (Edisi 17). Pearson. ISBN 978-0-13-562847-8. [URL 🔗](https://id.wikipedia.org/wiki/Istimewa:Sumber_buku/978-0-13-562847-8)
-
 - Kieso, Donald E.; Weygandt, Jerry J.; Warfield, Terry D. (2022). Intermediate Accounting (Edisi 18). John Wiley & Sons. ISBN 978-1-119-79097-6. [URL 🔗](https://id.wikipedia.org/wiki/Istimewa:Sumber_buku/978-1-119-79097-6)
-
 - Perks, R. W. (1993). Accounting and Society. Chapman & Hall. ISBN 978-0-412-47330-2. [URL 🔗](https://archive.org/details/accountingsociet0000perk)
-
 - Reeve, James M.; Warren, Carl S.; Duchac, Jonathan E. Pengantar Akuntansi: Adaptasi Indonesia (Edisi 2). Salemba Empat dan Cengage Learning. ISBN 978-981-4281-54-6. [URL 🔗](https://id.wikipedia.org/wiki/Istimewa:Sumber_buku/978-981-4281-54-6)
-
 - Romney, Marshall B.; Steinbart, Paul J. (2018). Accounting Information Systems (Edisi 14). Pearson. ISBN 978-0-13-447402-1. [URL 🔗](https://archive.org/details/accountinginform0000romn_e0w5)
-
 - Aliyya, Dieni Nurul; Sumiyana (2019). "Desain Manajemen Kos Kebun: Pedoman Akuntansi BUMN Perkebunan Berbasis IFRS yang Tidak Selaras dengan Statements on Auditing
-
 
 Standards (SAS) No. 101". ABIS: Accounting and Business Information Systems Journal. 7 (3). doi:10.22146/abis.v7i3.58851. [URL 🔗](https://doi.org/10.22146%2Fabis.v7i3.58851)
 
 ## Pranala luar
 
 - [IFRS Foundation (https://www.ifrs.org/)](https://www.ifrs.org/)
-
 - [Ikatan Akuntan Indonesia (https://web.iaiglobal.or.id/)](https://web.iaiglobal.or.id/)
-
 - [Institut Akuntan Publik Indonesia (https://iapi.or.id/)](https://iapi.or.id/)
-
 - [Ikatan Akuntan Indonesia – Standar Akuntansi Keuangan (https://web.iaiglobal.or.id/SAK-IAI/)](https://web.iaiglobal.or.id/SAK-IAI/)
-
 - [International Ethics Standards Board for Accountants (https://www.ethicsboard.org/)](https://www.ethicsboard.org/)
-
 - Garis waktu sejarah profesi akuntansi ICAEW (https://www.icaew.com/library/historical-resourc es/timeline) [URL 🔗](https://www.icaew.com/library/historical-resources/timeline)
 
 [Diperoleh dari "https://id.wikipedia.org/w/index.php?title=Akuntansi&oldid=30107014"](https://id.wikipedia.org/w/index.php?title=Akuntansi&oldid=30107014)
