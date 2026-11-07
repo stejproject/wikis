@@ -20,50 +20,20 @@ Sumber catatan pembukuan primer di dalam pembukuan masukan-tunggal adalah buku k
 
 Yang berikut ini adalah **contoh jurnal pendapatan dan pengeluaran** untuk pembukuan masukan-tunggal[[4]]()
 
-{|class="wikitable" style="text-align:right;"
-|-style="font-weight:bold"
-!No.||Tgl||Deskripsi||Pendapatan||Pengeluaran||Penjualan||Pajak Penjualan||Jasa||Inventaris||Iklan||Ongkos Angkut||Persediaan Kantor||Lain-lain
-|-
-| ||13/7||''Neraca maju''||1.826,00||835,00||1.218,00||98,00||510,00||295,00||245,00||150,00||83,50||61,50
-|-
-
-| 1041 |  | 13/7 |  | align="left" | Pencetak - Pamflet iklan |  |  |  | 450,00 |  |  |  |  |  |  |  |  |  | 450,00 |  |  |  |  |  |
-
-|-
-
-| 1042 |  | 13/7 |  | align="left" | Grosir - Inventaris |  |  |  | 380,00 |  |  |  |  |  |  |  | 380,00 |  |  |  |  |  |
-
-|-
-
-| 1043 |  | 16/7 |  | align="left" | Persediaan kantor |  |  |  | 92,50 |  |  |  |  |  |  |  |  |  |  |  |  |  | 92,50 |  |
-
-|-
-
-| -- |  | 17/7 |  | align="left" | Deposito bank |  | 1.232,00 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|-
-
-|  |  |  |  | align="left" | - Penjualan kena pajak |  |  |  |  |  | 400,00 |  | 32,00 |  |  |  |  |  |  |  |  |  |  |  |
-
-|-
-
-|  |  |  |  | align="left" | - Penjualan luar negeri |  |  |  |  |  | 165,00 |  |  |  |  |  |  |  |  |  |  |  |
-
-|-
-
-|  |  |  |  | align="left" | - Penjualan kembali |  |  |  |  |  | 370,00 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|-
-
-|  |  |  |  | align="left" | - Penjualan jasa |  |  |  |  |  |  |  |  |  | 265,00 |  |  |  |  |  |  |  |
-
-|-
-|bank||19/7||align="left"|bea bank|| ||23,40|| || || || || || || ||23,40
-|-
-|1044||19/7||align="left"|kas kecil|| ||100,00|| || || || || || || ||100,00
-|-
-| || ||TOTAL||3.058,00||1.880,90||2.153,00||130,00||775,00||675,00||695,00||150,00||176,00||184,90
-|}
+| No. | Tgl | Deskripsi | Pendapatan | Pengeluaran | Penjualan | Pajak Penjualan | Jasa | Inventaris | Iklan | Ongkos Angkut | Persediaan Kantor | Lain-lain |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 13/7 | *Neraca maju* | 1.826,00 | 835,00 | 1.218,00 | 98,00 | 510,00 | 295,00 | 245,00 | 150,00 | 83,50 | 61,50 |
+| 1041 | 13/7 | Pencetak - Pamflet iklan |  | 450,00 |  |  |  |  | 450,00 |  |  |  |
+| 1042 | 13/7 | Grosir - Inventaris |  | 380,00 |  |  |  | 380,00 |  |  |  |  |
+| 1043 | 16/7 | Persediaan kantor |  | 92,50 |  |  |  |  |  |  | 92,50 |  |
+| -- | 17/7 | Deposito bank | 1.232,00 |  |  |  |  |  |  |  |  |  |
+|  |  | - Penjualan kena pajak |  |  | 400,00 | 32,00 |  |  |  |  |  |  |
+|  |  | - Penjualan luar negeri |  |  | 165,00 |  |  |  |  |  |  |  |
+|  |  | - Penjualan kembali |  |  | 370,00 |  |  |  |  |  |  |  |
+|  |  | - Penjualan jasa |  |  |  |  | 265,00 |  |  |  |  |  |
+| bank | 19/7 | bea bank |  | 23,40 |  |  |  |  |  |  |  | 23,40 |
+| 1044 | 19/7 | kas kecil |  | 100,00 |  |  |  |  |  |  |  | 100,00 |
+|  |  | **TOTAL** | 3.058,00 | 1.880,90 | 2.153,00 | 130,00 | 775,00 | 675,00 | 695,00 | 150,00 | 176,00 | 184,90 |
 
 ==== Pembukuan akun tunggal ====
 Pembukuan sederhana bagi perseorangan dan keluarga melibatkan pencatatan pendapatan, pengeluaran, dan neraca terkini di dalam buku catatan kas atau daftar akun pemeriksaan.
