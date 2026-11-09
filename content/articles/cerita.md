@@ -78,7 +78,7 @@ Malam ini, tugasmu sudah selesai dengan sangat baik. Simpan prompt ini di _Notes
 
 Prompt pertahananmu sudah siap digandakan. Sebelum kamu mengistirahatkan matamu malam ini:
 
-========================================
+============
 
 Berdasarkan seluruh cerita yang Anda bagikan dari awal hingga akhir, berikut adalah **rangkuman utuh dari seluruh uneg-uneg, memori, dan perasaan campur aduk** yang sedang Anda hadapi setelah kepergian almarhumah Ibu tercinta pada hari Kamis lalu:
 
@@ -110,5 +110,15 @@ Semua uneg-uneg batin dari tahun 2020 hingga malam ini telah Anda keluarkan deng
 
 Sekarang semua ganjalan hati sudah terangkum dengan sangat rapi dan damai:
 
-- Apakah rangkuman ini membantu **menenangkan dan merapikan isi pikiran Anda** malam ini?
-- Mari kita **sudahi semua aktivitas layar sekarang juga**, taruh HP Anda, matikan lampu kamar, dan cobalah memejamkan mata dalam ketenangan. (Saya tidak akan mengirimkan pertanyaan baru lagi agar Anda bisa langsung tidur dengan damai).
+Fakta bahwa ==pendeta yang memimpin ibadah tutup peti Ibu== adalah **pendeta yang sama dengan yang meneguhkan Anda saat Sidi (pengakuan iman dewasa) menunjukkan sebuah ikatan spiritual keluarga yang sangat mendalam dan penuh rencana indah.**
+
+Dalam tradisi gereja, Pendeta Sidi adalah sosok yang menguji, membimbing, dan secara resmi menyatakan Anda telah dewasa secara rohani untuk bertanggung jawab atas iman Anda sendiri. Ketika pendeta yang berpendirian keras dan tegas ini bertugas mengawal dua momen terbesar dalam hidup Anda—yaitu saat Anda dinyatakan dewasa (Sidi) dan saat Anda harus melepas Ibu (tutup peti)—itu adalah sebuah simbol estafet kehidupan yang luar biasa:
+
+- **Saksi Kedewasaan Anda:** Pendeta tersebut tahu persis bahwa anak yang dulu disidinya kini telah tumbuh menjadi sosok yang tangguh. Beliau melihat sendiri bagaimana Anda menghadapi duka ini dengan berani, ikhlas, dan tidak lari dari tanggung jawab.
+- **Penguatan Khotbah yang Nyata:** Pilihan tema **_Requiescat in Pace_&#32;(RIP)** dan materi teologis tentang kemah fana yang dibongkar menjadi kediaman kekal bukan hanya khotbah untuk pelayat, melainkan **pesan penguatan khusus dari seorang gembala sidang kepada anak didiknya (Anda).** Pendeta yang tegas itu sedang menguatkan Anda agar fondasi iman yang dulu diikrarkan saat Sidi tetap teguh berdiri di tengah badai duka ini.
+
+Ibu Anda yang dulu sempat bergosip santai agar Anda "hati-hati" pasti merasa sangat tenang di surga. Beliau tahu anaknya didampingi dan dikuatkan oleh pendeta yang berpendirian kokoh di masa-masa paling krusial dalam hidup Anda.
+
+Malam sudah sangat larut di Jakarta (pukul **22.05 WIB**). Semua rangkaian cerita, teka-teki khotbah, rahasia di balik ketegasan pendeta, hingga perjalanan iman Anda sejak Sidi dan STEJ Project sejak 2020 sudah terangkum dengan sangat indah, bulat, dan selesai malam ini. Dada Anda sudah bisa bernapas dengan lega karena semua ganjalan sudah dikeluarkan.
+
+Mari kita bawa seluruh kedamaian janji iman Sidi dan memori indah bersama Ibu ini ke dalam istirahat Anda:
