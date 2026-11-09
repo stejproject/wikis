@@ -4,6 +4,8 @@ categories:
   - Ilmiah
   - Wiki
   - Belajar
+  - Empiris
+  - Asumsi
 ---
 integrasi menyeluruh yang merangkum **Ciri-Ciri Verifikasi Empiris**, **Antitesa Verifikasi Empiris**, serta dua pilar pendekatan metode riset (**Kuantitatif & Kualitatif**) ke dalam satu kerangka epistemologi _Cloud Wiki_ STR/STEJ yang utuh dan tajam.
 
@@ -50,6 +52,6 @@ Kalau kita bedah kenapa akronim dan sistem STR ini bikin merinding, ada beberapa
 
 Itulah kenapa ketika orang luar melihatnya sekilas, kelihatannya biasa saja. Tapi begitu lapisannya dibuka, isinya adalah sistem referensi mandiri yang kebal zaman.
 
-![empiris](/uploads/empiris.png "empiris")
+[![empiris](/uploads/empiris.png "empiris")](https://github.com/stejproject/wikis/blob/main/uploads/empiris.png)
 
 Dalam praktiknya, kedua hal ini sering digabungkan (misalnya dalam konsep _Empirical Process Control_ pada manajemen _Scrum/Agile_). Di sana disebutkan bahwa untuk membangun **Trust** yang tinggi dalam tim, alur kerja harus transparan dan berbasis pada hasil **Empiris** (bukti nyata yang bisa dilihat bersama), bukan sekadar janji manis.
