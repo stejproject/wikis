@@ -13,13 +13,13 @@ integrasi menyeluruh yang merangkum **Ciri-Ciri Verifikasi Empiris**, **Antitesa
 
 **Empiris** adalah pendekatan yang didasarkan pada **bukti nyata, observasi, dan pengalaman** yang dapat diuji oleh indra manusia, bukan sekadar teori, intuisi, atau logika murni.
 
-🔀 Pendekatan Empiris
+### 🔀 Pendekatan Empiris
 
 - **Kuantitatif & Kualitatif:** Menggunakan data angka (statistik) atau data deskriptif (wawancara, observasi) yang valid.
 - **Objektif:** Fokus pada apa yang _sebenarnya terjadi_ di lapangan, bebas dari prasangka subjektif.
 - **Falsifikasi:** Selalu siap diuji ulang. Jika ada bukti baru yang membantah teori lama, maka teori tersebut harus diubah.
 
-🔄 Alur Kerja Empiris (Metode Ilmiah)
+#### 🔄 Alur Kerja Empiris (Metode Ilmiah)
 
 Alur empiris bergerak dari dunia nyata ke teori (induktif) atau dari teori ke pembuktian nyata (deduktif). Secara umum alurnya adalah:
 
@@ -33,13 +33,13 @@ Alur empiris bergerak dari dunia nyata ke teori (induktif) atau dari teori ke pe
 
 **Trust** adalah keyakinan atau keyakinan kuat pada **keandalan, kebenaran, kemampuan, atau kekuatan** seseorang atau sesuatu. Berbeda dengan empiris yang butuh bukti di awal, _trust_ sering kali melibatkan kerelaan untuk menerima risiko sebelum bukti lengkap itu ada.
 
-🔀 Pendekatan Trust
+### 🔀 Pendekatan Trust
 
 - **Pendekatan Relasional:** Membangun hubungan interpersonal, komunikasi yang transparan, dan integritas.
 - **Pendekatan Reputasi:** Menilai rekam jejak masa lalu seseorang atau sebuah institusi.
 - **Pendekatan Berbasis Kognitif & Afektif:** Kombinasi antara logika (menilai kemampuan) dan emosi (merasa aman secara psikologis).
 
-🔄 Alur Pembentukan Trust (Model Kepercayaan)
+#### 🔄 Alur Pembentukan Trust (Model Kepercayaan)
 
 Menurut teori manajemen (seperti Mayer, Davis, & Schoorman), alur pembentukan _trust_ adalah sebagai berikut:
 
@@ -65,9 +65,9 @@ Menurut teori manajemen (seperti Mayer, Davis, & Schoorman), alur pembentukan _t
 
 Dalam praktiknya, kedua hal ini sering digabungkan (misalnya dalam konsep _Empirical Process Control_ pada manajemen _Scrum/Agile_). Di sana disebutkan bahwa untuk membangun **Trust** yang tinggi dalam tim, alur kerja harus transparan dan berbasis pada hasil **Empiris** (bukti nyata yang bisa dilihat bersama), bukan sekadar janji manis.
 
-## ARSITEKTUR EPISTEMOLOGI: VERIFIKASI & METODOLOGI RISET STR/STEJ
+### ARSITEKTUR EPISTEMOLOGI: VERIFIKASI & METODOLOGI RISET STR/STEJ
 
-### 1. Ciri-Ciri Verifikasi Empiris (Fondasi Bukti)
+#### 1. Ciri-Ciri Verifikasi Empiris (Fondasi Bukti)
 
 Sebelum sebuah data atau klaim diterima oleh sistem _root reference_, ia wajib melewati saringan verifikasi empiris dengan karakteristik:
 
@@ -76,7 +76,7 @@ Sebelum sebuah data atau klaim diterima oleh sistem _root reference_, ia wajib m
 - **Sistematis:** Pengumpulan dan analisis data berjalan mengikuti prosedur serta metode ilmiah yang baku.
 - **Berorientasi pada Bukti:** Validitas teori diukur dari seberapa kuat bukti empiris yang mendukungnya di lapangan.
 
-### 2. Dua Jalur Pendekatan Verifikasi Empiris
+#### 2. Dua Jalur Pendekatan Verifikasi Empiris
 
 Dalam praktiknya di lapangan, verifikasi empiris dieksekusi melalui dua pendekatan utama yang saling melengkapi:
 
@@ -89,7 +89,7 @@ Dalam praktiknya di lapangan, verifikasi empiris dieksekusi melalui dua pendekat
     - _Instrumen & Analisis:_ Peneliti bertindak sebagai instrumen utama (_human instrument_) melalui observasi mendalam, dengan alur induktif (data spesifik lapangan $\\rightarrow$ pola makna baru).
     - _Fokus:_ Memahami fenomena sosial, budaya, dan pengalaman manusia yang subjektif serta terikat konteks waktu/tempat (_context-bound_) menggunakan sampel terarah (_purposive sampling_).
 
-### 3. Antitesa Verifikasi Empiris (Batas & Koreksi Kritis)
+#### 3. Antitesa Verifikasi Empiris (Batas & Koreksi Kritis)
 
 Sistem ini juga menyadari batasan verifikasi dengan memahami antitesanya agar terhindar dari bias kognitif:
 
