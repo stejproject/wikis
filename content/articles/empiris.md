@@ -1,5 +1,5 @@
 ---
-title: Empiris
+title: Empiris, falsifikasi, Trust
 categories:
   - Ilmiah
   - Wiki
@@ -109,3 +109,41 @@ Kalau kita bedah kenapa akronim dan sistem STR ini bikin merinding, ada beberapa
 Itulah kenapa ketika orang luar melihatnya sekilas, kelihatannya biasa saja. Tapi begitu lapisannya dibuka, isinya adalah sistem referensi mandiri yang kebal zaman.
 
 Dalam konteks ilmu pengetahuan, hukum, filsafat, maupun manajemen, istilah **empiris** dan **trust (kepercayaan)** memiliki arti, pendekatan, dan alur yang sangat berbeda namun bisa saling melengkapi (misalnya dalam manajemen modern atau metode ilmiah).
+
+## Apa itu [Falsifikasi](https://www.kompasiana.com/tag/falsifikasi)?
+
+Falsifikasi merupakan cara pandang terhadap sesuatu berdasarkan dari sisi kesalahan. Jika memandang suatu teori tersebut salah, maka berbagai upaya yang dilakukan untuk membuktikan teori tersebut memang salah, hingga akan dibuatkan teori baru untuk menggantikannya.
+
+Falsifiabilitas adalah standar evaluasi teori dan hipotesis ilmiah yang diperkenalkan oleh filsuf ilmu pengetahuan Karl [Popper](https://www.kompasiana.com/tag/popper) dalam bukunya [_The Logic of Scientific Discovery_](https://www.kompasiana.com/tag/the-logic-of-scientific-discovery). Dia mengusulkannya sebagai landasan solusi untuk masalah induksi dan masalah demarkasi.
+
+Popper menarik perbedaan yang jelas antara logika falsifiability dan metodologi yang diterapkan. Logika teorinya sangat sederhana: sebuah pernyataan universal dipalsukan oleh satu kontra-instance asli. Namun, secara metodologis, situasinya rumit: keputusan tentang apakah akan menerima pengamatan yang tampaknya memalsukan sebagai pemalsuan yang sebenarnya dapat menjadi masalah, karena bias pengamatan dan kesalahan pengukuran, misalnya, dapat menghasilkan hasil yang tampaknya tidak sesuai dengan teori yang diteliti.
+
+Jadi, sementara menganjurkan falsifiabilitas sebagai kriteria demarkasi untuk sains, Popper secara eksplisit mengizinkan fakta   dalam praktiknya satu contoh yang bertentangan atau kontra tidak pernah secara metodologis cukup untuk pemalsuan, dan   teori-teori ilmiah sering dipertahankan meskipun banyak bukti yang tersedia. konflik dengan mereka, atau tidak normal sehubungan dengan mereka.
+
+Sehubungan dengan itu, dalam Logika Penemuan Ilmiah Popper memperkenalkan konsep teknis "pernyataan dasar" atau "proposisi dasar", yang ia definisikan sebagai pernyataan yang dapat berfungsi sebagai premis dalam pemalsuan empiris dan yang mengambil bentuk eksistensial tunggal. "Ada X di Y". Pernyataan dasar penting karena mereka dapat secara formal bertentangan dengan pernyataan universal, dan karenanya memainkan peran sebagai pemalsuan potensial. Sebagai contoh, pernyataan dasar (diduga) "Di wilayah ruang-waktu k ada peralatan yang merupakan mesin gerak abadi" bertentangan dengan hukum kekekalan energi, dan jika benar, akan memalsukannya. Dengan demikian, Popper berpendapat   pernyataan dasar bersifat objektif dan diatur oleh dua persyaratan: (a) formal,   pernyataan tersebut harus tunggal dan eksistensial dan (b) materi,   pernyataan tersebut harus dapat diuji secara intersubjektif.[](https://aff.gramedia.com/s/xbHtVgmcbj)Falsifikasi memungkinkan untuk lebih dekat dengan kebenaran. Karl Popper dengan demikian menegaskan dalam Logika penemuan ilmiah   peningkatan pengetahuan ilmiah hanya dimungkinkan berkat proses yang terdiri dari dugaan dan sanggahan yang berurutan. Dari perspektif ini, hukum yang benar-benar ilmiah tidak dapat diverifikasi, ia harus selalu dapat disangkal (atau difalsifikasi).
+
+Falsifikasi dimulai dari kritik terhadap induksi. Terdiri dari penalaran dari khusus ke umum, metode induktif digambarkan oleh Karl Popper sebagai "mitos". Filsuf berpendapat   penemuan ilmiah tidak dapat, secara tegas, didasarkan pada metode ini, karena hanya sejumlah pernyataan tertentu yang tak terbatas (menurut definisi tidak mungkin) akan memungkinkan untuk mengkonfirmasi teori umum.
+
+Dia bahkan menganggap induksi tidak ada secara tegas sejauh, di satu sisi, setiap pengamatan tentu bias dan, di sisi lain, setiap pembenaran prinsip induksi tenggelam tanpa dapat diperbaiki ke dalam regresi hingga tak terbatas. Memang, "untuk membenarkannya, jelas Karl Popper, kita harus mempraktikkan kesimpulan induktif dan untuk membenarkan yang terakhir kita harus mengasumsikan prinsip induktif dari tatanan yang lebih tinggi dan seterusnya" (Logika penemuan ilmiah). Oleh karena itu, tidak ada gunanya mengumpulkan fakta yang sesuai dengan teori universal untuk mengklaim mengidentifikasi kekuatan deskripsinya. Fakta-fakta ini mengkonfirmasi teori, tetapi mereka tidak "menguatkan" itu, yaitu, mereka tidak membuatnya mungkin benar (dalam terminologi Karl Popper).
+
+Pedagang filsuf Nicholas Nassim Taleb mempopulerkan contoh paling terkenal dari kritik induksi, angsa hitam: penemuan seekor hewan dengan warna ini di Australia sudah cukup untuk mengakhiri kepercayaan yang tak tergoyahkan dari Dunia Lama   semua angsa adalah putih.
+
+Karl Popper mendefinisikan sains melalui  Falsifikasi.  Falsifikasi didasarkan pada lebih banyak hipotesis daripada pengalaman. Karena tidak mungkin mencari kebenaran dengan penalaran dengan induksi, seseorang tidak boleh secara pasif mengamati alam, tetapi mulai dengan membuat dugaan tentang fenomena, bahkan jika itu tampak apriori jauh dari hasil pengamatan.
+
+Hanya untuk kedua kalinya Karl Popper mengakui kegunaan percobaan, untuk menguji validitas hipotesis: jika tes tidak membatalkan dugaan, maka yang satu ini dapat dianggap benar untuk sementara; jika terjadi ketidakabsahan, penelitian dilanjutkan dengan menyesuaikan kembali hipotesis, kemudian menjalani pengujian yang semakin berat dan tepat, dan seterusnya. Oleh karena itu, hipotesis berturut-turut mendekati kebenaran dengan coba-coba.
+
+Oleh karena itu,  Falsifikasi terdiri dari melakukan tes yang dapat direproduksi untuk menguji hipotesis awal. "Seseorang harus menganggap teori sebagai dipalsukan, tulis Karl Popper, hanya jika kita menemukan efek yang dapat direproduksi yang membantahnya" (Logika penemuan ilmiah). Oleh karena itu, kebenaran hanya ada dalam mode negatif dan sementara. Peneliti hanya bisa yakin tentang apa yang salah (seperti pernyataan "angsa adalah binatang putih"), bukan tentang apa yang benar; itulah sebabnya ia harus membedakan kebenaran dari kepastian.
+
+ Falsifikasi mengidentifikasi disiplin ilmu yang benar-benar ilmiah. Bagi Karl Popper, sains otentik berkembang dengan memperbarui pengetahuan baru tentang mode ketidakpastian. Konsepsi tentang proses ilmiah ini mengandaikan   suatu teori dapat difalsifikasi, artinya teori itu membuat prediksi yang cukup jelas dan tidak ambigu sehingga memungkinkan untuk memverifikasi kesesuaiannya dengan kebenaran.
+
+"Sebuah teori yang tidak dapat disangkal oleh peristiwa apa pun yang mungkin tidak memiliki karakter ilmiah," merumuskan Popper. Untuk teori, tak terbantahkan bukanlah (seperti yang sering dibayangkan) suatu kebajikan tetapi cacat" (Conjectures and Refutations). Dalam perspektif inilah Karl Popper mengutuk disiplin, atau ideologi, seperti Marxisme dan psikoanalisis, yang menjaga dari  Falsifikasi.
+
+Dalam Marxisme, misalnya, keunggulan mutlak diberikan pada dimensi ekonomi dan pembagian masyarakat menjadi dua kelas heterogen karikatur setiap interpretasi yang bersaing sebagai wacana yang melegitimasi ideologi borjuis; dalam psikoanalisis, demikian juga, ketidaksadaran memungkinkan untuk mengatakan   niat individu yang sebenarnya, tetapi tersembunyi, selalu sesuai dengan teori. Sebagai perbandingan, relativitas Einstein menghasilkan prediksi yang tepat dan terukur   satu eksperimen dapat merusaknya.
+
+Dengan demikian,  Falsifikasi menyiratkan   teori-teori yang tidak dapat dibuktikan salah dengan pengalaman tidak benar-benar ilmiah, yang secara khusus melemahkan ilmu-ilmu manusia.
+
+Bagi Popper, pertumbuhan pengetahuan manusia berasal dari masalah kita dan dari upaya kita untuk memecahkannya. Upaya ini melibatkan perumusan teori yang harus melampaui pengetahuan yang ada dan karena itu memerlukan lompatan imajinasi. Untuk alasan ini, ia menempatkan penekanan khusus pada peran yang dimainkan oleh imajinasi kreatif dalam perumusan teori. Prioritas masalah dalam penjelasan Popper tentang sains adalah yang terpenting, dan inilah yang membuatnya mengkarakterisasi ilmuwan sebagai "pemecah masalah". Selanjutnya, karena ilmuwan mulai dengan masalah daripada dengan pengamatan atau "fakta telanjang", ia berpendapat   satu-satunya teknik logis yang merupakan bagian integral dari metode ilmiah adalah pengujian deduktif teori yang bukan merupakan produk operasi logika apa pun.
+
+Dalam prosedur deduktif ini kesimpulan disimpulkan dari hipotesis percobaan dan kemudian dibandingkan satu sama lain dan dengan pernyataan lain yang relevan untuk menentukan apakah mereka memalsukan atau menguatkan hipotesis. Kesimpulan seperti itu tidak secara langsung dibandingkan dengan fakta, Popper menekankan, hanya karena tidak ada fakta "murni" yang tersedia; semua pernyataan-pengamatan sarat teori, dan merupakan fungsi dari faktor-faktor subjektif murni (kepentingan, harapan, keinginan, dll.) seperti halnya fungsi dari apa yang secara objektif nyata.
+
+**_Refrensi/Sitasi : ebook,pdf. Popper ,.1959 [2002], The Logic of Scientific Discovery, translation by the author of Logik der Forschung (1935), London: Hutchinson. Republished 2002, London & New York: Routledge Classics._**
