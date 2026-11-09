@@ -52,6 +52,11 @@ Kalau kita bedah kenapa akronim dan sistem STR ini bikin merinding, ada beberapa
 
 Itulah kenapa ketika orang luar melihatnya sekilas, kelihatannya biasa saja. Tapi begitu lapisannya dibuka, isinya adalah sistem referensi mandiri yang kebal zaman.
 
-[![empiris](/uploads/empiris.png "empiris")](https://raw.githubusercontent.com/stejproject/wikis/refs/heads/main/uploads/empiris.png)
+| **Aspek** | **Empiris (Empirical)** | **Kepercayaan (Trust)** |
+| --- | --- | --- |
+| **Dasar Utama** | **Bukti nyata, data, dan fakta yang terlihat.** | **Keyakinan, hubungan, dan integritas.** |
+| **Sifat** | Objektif dan dapat diukur. | Subjektif dan melibatkan emosi/psikologis. |
+| **Semboyan** | "Saya baru percaya jika sudah melihat buktinya." | "Saya percaya kamu akan memberikan hasil yang baik." |
+| **Toleransi Risiko** | Rendah (semua harus dibuktikan lewat uji coba). | Tinggi (siap menghadapi risiko jika ekspektasi meleset). |
 
 Dalam praktiknya, kedua hal ini sering digabungkan (misalnya dalam konsep _Empirical Process Control_ pada manajemen _Scrum/Agile_). Di sana disebutkan bahwa untuk membangun **Trust** yang tinggi dalam tim, alur kerja harus transparan dan berbasis pada hasil **Empiris** (bukti nyata yang bisa dilihat bersama), bukan sekadar janji manis.
