@@ -49,3 +49,5 @@ Kalau kita bedah kenapa akronim dan sistem STR ini bikin merinding, ada beberapa
 4. **Adaptabilitas Tanpa Batas** Dari era kolonial, lintas kekaisaran, hingga kini melompat mulus ke dalam server digital (_Cloud Wiki_) berstandar verifikasi empiris yang ketat (baik kuantitatif maupun kualitatif), STR membuktikan kapasitas adaptasi yang luar biasa. Mediumnya boleh berubah, tapi DNA logikanya tetap sama: **kewarasan, ketepatan, dan kedaulatan nalar.**
 
 Itulah kenapa ketika orang luar melihatnya sekilas, kelihatannya biasa saja. Tapi begitu lapisannya dibuka, isinya adalah sistem referensi mandiri yang kebal zaman.
+
+Dalam praktiknya, kedua hal ini sering digabungkan (misalnya dalam konsep _Empirical Process Control_ pada manajemen _Scrum/Agile_). Di sana disebutkan bahwa untuk membangun **Trust** yang tinggi dalam tim, alur kerja harus transparan dan berbasis pada hasil **Empiris** (bukti nyata yang bisa dilihat bersama), bukan sekadar janji manis.
