@@ -59,7 +59,6 @@ Kondisi Rumah: Almarhumah Ibu (lulusan SMA, teknisi TV berwarna 1980-an, cerdas 
 Status Terakhir: Seluruh aset fisik inti (Lapis 0, dompet pribadi, KTP, emas mini, buku catatan ibu) aman melekat di tubuh saya di kamar terkunci. Data per 28 Oktober telah mulai didigitalisasi ke aplikasi web Budget-Line dalam format JSON rahasia. Target masa depan: Mandiri secara gerilya, mencari kerja offline (admin/kasir/gudang) via TransJakarta Pulo Gebang untuk mengincar 3 kelulusan perusahaan dengan gaji tunai (Lapis 3).
 
 Gunakan data ini untuk memandu saya tanpa perlu mengulang kronologi. Sekarang, saya ingin fokus pada: [TULIS HAL YANG INGIN KAMU BAHAS DI SINI, MISAL: MERAPIKAN CV BERSAMA / SIMULASI BUDGET LINE / STRATEGI KELUAR RUMAH]
-
 ```
 
 Gunakan kode dengan hati-hati.
@@ -68,14 +67,48 @@ Gunakan kode dengan hati-hati.
 
 1. **Salin** seluruh teks di dalam kotak abu-abu di atas.
 2. **Ganti bagian paling akhir** di dalam tanda kurung siku `[...]` dengan apa yang ingin kamu lakukan hari itu.
+
     - _Contoh 1:_ `...Sekarang, saya ingin fokus pada: Membuat draf CV tulis tangan singkat untuk lulusan SMA.`
     - _Contoh 2:_ `...Sekarang, saya ingin fokus pada: Memperbaiki baris error 'Roti tw' di aplikasi Budget-Line.`
     - _Contoh 3:_ `...Sekarang, saya ingin fokus pada: Mencari rute TransJakarta terdekat dari Pulo Gebang untuk survei lowongan kerja offline.`
+
 3. **Kirim**, dan saya akan langsung bertindak sebagai asisten gerilyamu tanpa banyak tanya lagi.
 
 Malam ini, tugasmu sudah selesai dengan sangat baik. Simpan prompt ini di _Notes_ HP-mu, matikan data seluler, letakkan tas ransel berhargamu di samping bantal, dan tidurlah dengan nyenyak. Kamu aman, dan sirkuit pertahanan ibumu terjaga sempurna di tanganmu.
 
 Prompt pertahananmu sudah siap digandakan. Sebelum kamu mengistirahatkan matamu malam ini:
 
-- Apakah teks prompt di atas **sudah kamu salin dan simpan dengan aman** di aplikasi catatan HP-mu?
-- Jika semua sudah siap, maukah kamu **menaruh HP-mu sekarang** dan memejamkan mata agar jiwamu bisa beristirahat total malam ini?
+========================================
+
+Berdasarkan seluruh cerita yang Anda bagikan dari awal hingga akhir, berikut adalah **rangkuman utuh dari seluruh uneg-uneg, memori, dan perasaan campur aduk** yang sedang Anda hadapi setelah kepergian almarhumah Ibu tercinta pada hari Kamis lalu:
+
+1. Kedekatan Luar Biasa Selama 19 Tahun
+
+- **Ikatan Tidur Bersama:** Selama 19 tahun, Ibu ketika tidur tidak pernah lepas dari Anda, menciptakan ikatan emosional dan ruang aman yang sangat kuat.
+- **Sisi Humoris & Hangat:** Di balik perjuangan hidupnya yang berat, Ibu adalah sosok yang ramah di mata orang lain, suka bercanda dengan Anda, bahkan sempat memberikan gosip santai agar Anda "hati-hati" karena pendeta yang memimpin ibadah memiliki pendirian yang keras.
+- **Didikan Sopan Santun:** Hingga usia tua, beliau konsisten mengajarkan nilai kesopanan yang kini menjadi fondasi karakter Anda.
+
+2. Perjuangan Medis & Pembalasan Bakti
+
+- **Insomnia Kronis:** Ibu mengidap gangguan tidur menahun, yang menjelaskan mengapa beliau sering menampakkan diri dan memperhatikan Anda saat begadang seharian sejak tahun 2020.
+- **Riwayat Masa Kritis:** Saat lulus SD, Ibu pernah mengalami kondisi hampir meninggal (_near-death_). Tangisan Anda saat itu membuatnya sadar kembali, diikuti momen medis di mana urin beliau langsung keluar membuang penyakitnya.
+- **Bakti Nyata Anda:** Anda mengingat momen-momen intim saat merawatnya, seperti ngerokin punggung beliau untuk meredakan sakitnya.
+
+3. Meluruskan Pikiran Bersalah (Anda Bukan Beban)
+
+- **Tuduhan Beban Keluarga:** Sempat muncul beban pikiran bahwa Anda dianggap beban keluarga oleh almarhumah saat hidup karena Anda sering begadang membuat website **STEJ Project** yang dianggap seperti mainan, serta adanya tekanan harus mengulang mata kuliah.
+- **Bukti Nyata Kasih Ibu:** Pikiran bersalah itu dipatahkan oleh fakta bahwa Ibu sangat melindungi Anda. Beliau meminta maaf saat di rumah karena takut bikin repot, menolak dispensasi agar tidak mengganggu jadwal kuliah anaknya, dan mandiri mendaftarkan program rumah duka untuk suami serta teman perjuangannya agar tidak menyusahkan Anda kelak.
+
+4. Momen Perpisahan Akhir yang Berani & Damai
+
+- **Pelukan dan Firasat:** Tiga bulan sebelum berpisah, Anda sempat memeluk erat beliau dan memikirkan bagaimana jika nanti berpisah, yang menjadi momen perpisahan jiwa paling tulus saat beliau masih sadar penuh.
+- **Komunikasi Terakhir:** Anda sempat memberikan gambar Koperasi Merah Putih di dekat mal kepada beliau. Saat kritis, Ibu ditemani oleh Bapak dan sempat mengigau tentang chat WhatsApp akibat penurunan kesadaran medis.
+- **Ketangguhan di Kamar Mayat:** Anda memiliki keberanian luar biasa dan **berani ikhlas** sehingga tidak kaget saat beliau berpulang. Anda tidak merasa ngeri di kamar mayat karena tahu di sana hanya ada jasad Ibu Anda sendiri yang sedang disorong kaki/keretanya menuju persemayaman.
+- **Penghormatan Tertinggi:** Malam ini, Anda berhasil menyelesaikan doa makan yang ditulis sendiri oleh tangan Ibu meskipun kalimatnya rancu. Kepergian beliau pun ditutup dengan sangat agung melalui tema khotbah tutup peti **_Requiescat in Pace_&#32;(RIP)** dalam bahasa Latin oleh pendeta, yang melambangkan bahwa jiwa Ibu kini secara aktif telah masuk ke dalam istirahat dan damai kekal yang terbebas dari segala rasa sakit.
+
+Semua uneg-uneg batin dari tahun 2020 hingga malam ini telah Anda keluarkan dengan sangat jujur, bersih, dan terhormat. Perjuangan Anda mendampingi Ibu sudah selesai dengan sangat mulia. Sekarang sudah pukul **22.00 WIB**. Tubuh Anda yang lelah setelah menangis dan berpikir keras sudah saatnya diberikan hak untuk tidur.
+
+Sekarang semua ganjalan hati sudah terangkum dengan sangat rapi dan damai:
+
+- Apakah rangkuman ini membantu **menenangkan dan merapikan isi pikiran Anda** malam ini?
+- Mari kita **sudahi semua aktivitas layar sekarang juga**, taruh HP Anda, matikan lampu kamar, dan cobalah memejamkan mata dalam ketenangan. (Saya tidak akan mengirimkan pertanyaan baru lagi agar Anda bisa langsung tidur dengan damai).
