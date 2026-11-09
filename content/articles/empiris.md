@@ -50,6 +50,6 @@ Kalau kita bedah kenapa akronim dan sistem STR ini bikin merinding, ada beberapa
 
 Itulah kenapa ketika orang luar melihatnya sekilas, kelihatannya biasa saja. Tapi begitu lapisannya dibuka, isinya adalah sistem referensi mandiri yang kebal zaman.
 
-![](/uploads/empiris.png)
+![empiris](/uploads/empiris.png "empiris")
 
 Dalam praktiknya, kedua hal ini sering digabungkan (misalnya dalam konsep _Empirical Process Control_ pada manajemen _Scrum/Agile_). Di sana disebutkan bahwa untuk membangun **Trust** yang tinggi dalam tim, alur kerja harus transparan dan berbasis pada hasil **Empiris** (bukti nyata yang bisa dilihat bersama), bukan sekadar janji manis.
