@@ -1,5 +1,5 @@
 ---
-title: Empiris, falsifikasi, Trust
+title: Empiris, falsifikasi, Trust, Anekdotal
 categories:
   - Ilmiah
   - Wiki
@@ -146,4 +146,24 @@ Bagi Popper, pertumbuhan pengetahuan manusia berasal dari masalah kita dan dari 
 
 Dalam prosedur deduktif ini kesimpulan disimpulkan dari hipotesis percobaan dan kemudian dibandingkan satu sama lain dan dengan pernyataan lain yang relevan untuk menentukan apakah mereka memalsukan atau menguatkan hipotesis. Kesimpulan seperti itu tidak secara langsung dibandingkan dengan fakta, Popper menekankan, hanya karena tidak ada fakta "murni" yang tersedia; semua pernyataan-pengamatan sarat teori, dan merupakan fungsi dari faktor-faktor subjektif murni (kepentingan, harapan, keinginan, dll.) seperti halnya fungsi dari apa yang secara objektif nyata.
 
-**_Refrensi/Sitasi : ebook,pdf. Popper ,.1959 [2002], The Logic of Scientific Discovery, translation by the author of Logik der Forschung (1935), London: Hutchinson. Republished 2002, London & New York: Routledge Classics._**
+## **Bukti anekdotal** 
+
+adalah bukti yang didasari hanya dengan pengamatan pribadi, yang dikumpulkan secara non-sistematis.
+
+Saat digunakan pada [iklan](https://id.wikipedia.org/wiki/Iklan "Iklan") atau promosi mengenai sebuah produk, jasa atau ide, bukti anekdotal umumnya disebut dengan testimoni ([kesaksian](https://id.wikipedia.org/wiki/Kesaksian "Kesaksian")), yang sangat diregulasi[[1]](https://id.wikipedia.org/wiki/Bukti_anekdotal#cite_note-1) pada beberapa jurisdiksi.
+
+Saat dibandingkan dengan jenis bukti lainnya, bukti anekdot umumnya dianggap sebagai memiliki nilai yang terbatas karena beberapa kemungkinan kelemahan, namun dapat dianggap sebagai sebuah bagian dari [metode ilmiah](https://id.wikipedia.org/wiki/Metode_ilmiah "Metode ilmiah") karena beberapa bukti anekdotal dapat diverisikasi dan empiris. Sebagai contoh, penggunaan [studi kasus](https://id.wikipedia.org/wiki/Studi_kasus "Studi kasus") pada studi obat. Sementara itu, bukti anekdotal lainnya tidak termasuk sebagai sebuah [bukti ilmiah](https://id.wikipedia.org/wiki/Bukti_ilmiah "Bukti ilmiah") karena sifatnya membuatnya tidak bisa diinvestugasi menggunakan metode ilmiah. Saat hanya satu atau beberapa bukti anekdotal yang disajikan, ada kemungkinan besar bahwa bukti tersebut tidak bisa diandalkan karena di[petik ceri](https://id.wikipedia.org/wiki/Petik_ceri "Petik ceri") atau sampel non-representatif dari kasus tipikal.[[2]](https://id.wikipedia.org/wiki/Bukti_anekdotal#cite_note-weiten-2)[[3]](https://id.wikipedia.org/wiki/Bukti_anekdotal#cite_note-3) Psikolog menemukan bahwa karena [bias kognitif](https://id.wikipedia.org/wiki/Bias_kognitif "Bias kognitif"), orang cenderung lebih sering mengingat contoh terkemuka atau tidak biasa daripada contoh biasa (tipikal).[[4]](https://id.wikipedia.org/wiki/Bukti_anekdotal#cite_note-4) Oleh karena itu, meski akurat, bukti anekdot tidak diperlukan sebagai perwakilan dari sebuah peristiwa umum.
+
+**_Refrensi/Sitasi :&#32;_**
+
+**_ebook,pdf. Popper ,.1959 [2002], The Logic of Scientific Discovery, translation by the author of Logik der Forschung (1935), London: Hutchinson. Republished 2002, London & New York: Routledge Classics._**
+
+["Guides Concerning the Use of Endorsements and Testimonials in Advertising"](https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-testimonials/091005revisedendorsementguides.pdf) (PDF). FTC.gov.
+
+Weiten, Wayne (2010). [_Psychology: Themes and Variations_](https://archive.org/details/psychologythemes0000weit_a8i7). Wadsworth/Cengage Learning. hlm. [75](https://archive.org/details/psychologythemes0000weit_a8i7/page/n120). [ISBN](https://id.wikipedia.org/wiki/ISBN "ISBN") [9780495601975](https://id.wikipedia.org/wiki/Istimewa:Sumber_buku/9780495601975 "Istimewa:Sumber buku/9780495601975").
+
+Goodwin, C. James (2009). [_Research in Psychology: Methods and Design_](https://books.google.com/books?id=eNsVUGTMcDoC&pg=PA25). John Wiley & Sons. hlm. 25. [ISBN](https://id.wikipedia.org/wiki/ISBN "ISBN") [9780470522783](https://id.wikipedia.org/wiki/Istimewa:Sumber_buku/9780470522783 "Istimewa:Sumber buku/9780470522783").
+
+Gibson, Rhonda; Zillman, Dolf (1994). ["Exaggerated Versus Representative Exemplification in News Reports: Perception of Issues and Personal Consequences"](https://archive.org/details/sim_communication-research_1994-10_21_5/page/603). _Communication Research_. **21** (5): 603–624. [doi](https://id.wikipedia.org/wiki/DOI "DOI"):[10.1177/009365094021005003](https://doi.org/10.1177%2F009365094021005003). [S2CID](https://id.wikipedia.org/wiki/S2CID "S2CID") [145050644](https://api.semanticscholar.org/CorpusID:145050644).
+
+Bukti anekdotal. (2026, September 27). Di _Wikipedia, Ensiklopedia Bebas_. Diakses pada 03:55, September 27, 2026, dari [https://id.wikipedia.org/w/index.php?title=Bukti_anekdotal&oldid=29993403](https://id.wikipedia.org/w/index.php?title=Bukti_anekdotal&oldid=29993403)
