@@ -6,4 +6,4 @@ categories:
   - Artikel
   - Lensa
 ---
-[![https://stejproject.github.io/wikis/uploads /1000154560.jpg](/uploads/1000154560.jpg "Alat optik")](https://stejproject.github.io/wikis/uploads /1000154560.jpg)
+[![https://raw.githubusercontent.com/stejproject/wikis/refs/heads/main/uploads/1000154560.jpg](/uploads/1000154560.jpg "Alat optik")](https://raw.githubusercontent.com/stejproject/wikis/refs/heads/main/uploads/1000154560.jpg)
