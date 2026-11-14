@@ -1,6 +1,6 @@
 {
   "title": "Wiki",
-  "repo": "",
+  "repo": "https://github.com/stejproject/wikis/",
   "branch": "main",
   "contentDir": "content",
   "mainPage": "Halaman_Utama"
