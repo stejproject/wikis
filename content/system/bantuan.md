@@ -38,7 +38,7 @@ Gunakan **Buat halaman baru** di sidebar. Tautan merah `[[...]]` mengarah ke hal
 
 Yang dizinkan minimal harus berkas Gambar dengan Ketentuan: .png ; .gif ; .webp
 
-----------||------------berkas Video dengan ketentuan: 
+---------------------- berkas Video dengan ketentuan: 
 
 Tidak menyediakan untuk berkas dokumen, Lembar Sebar, dan salindia.
 
