@@ -4,6 +4,7 @@ categories:
   - Akuntansi
   - Pembukuan
   - Budgeting
+  - Wiki
 ---
 **Pembukuan** ([bahasa Inggris](https://id.wikipedia.org/wiki/Bahasa_Inggris "Bahasa Inggris"): _Bookkeeping_) adalah suatu proses pencatatan transaksi keuangan ke dalam catatan akuntansi.[[1]]() Transaksi meliputi penjualan, pembelian, pendapatan, dan pengeluaran oleh perseorangan maupun organisasi. Pembukuan merupakan tugas akuntansi yang paling dasar dan biasanya dilakukan oleh seorang ahli pembukuan. Pembukuan berbeda dengan [akuntansi](https://id.wikipedia.org/wiki/Akuntansi "Akuntansi"). Proses akuntansi biasanya dilakukan oleh seorang [akuntan](https://id.wikipedia.org/wiki/Akuntan "Akuntan"). Akuntan membuat laporan dari transaksi keuangan tercatat yang ditulis oleh ahli pembukuan. Terdapat beberapa metode umum pembukuan, semisal [sistem pembukuan masukan-tunggal](https://id.wikipedia.org/wiki/Sistem_pembukuan_masukan-tunggal "Sistem pembukuan masukan-tunggal") dan [pembukuan berpasangan](https://id.wikipedia.org/wiki/Pembukuan_berpasangan "Pembukuan berpasangan"), kedua-dua sistem ini dapat dilihat sebagai pembukuan "nyata". Setiap proses yang melibatkan pencatatan transaksi keuangan adalah proses pembukuan.
 
