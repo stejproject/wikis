@@ -3,6 +3,7 @@ title: Bantuan Menyunting
 categories:
   - Wiki
   - Situs
+  - Bantuan
 ---
 Panduan singkat menulis halaman.
 
@@ -32,6 +33,14 @@ Isi kolom **Kategori** di CMS. Halaman otomatis muncul di [[Khusus:Kategori|daft
 ## Halaman baru
 
 Gunakan **Buat halaman baru** di sidebar. Tautan merah `[[...]]` mengarah ke halaman yang belum ada.
+
+## Mengunggah berkas baru
+
+Yang dizinkan minimal harus berkas Gambar dengan Ketentuan: .png ; .gif ; .webp
+
+===========||=========berkas Video dengan ketentuan: 
+
+Tidak menyediakan untuk berkas dokumen, Lembar Sebar, dan salindia.
 
 ## Token
 
