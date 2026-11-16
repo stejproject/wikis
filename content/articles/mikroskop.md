@@ -26,9 +26,11 @@ Tujuan: trobosan kecil dalam menangani mekanisme penyebaran dan pengaruh fase ny
 
 Untuk pengaturan kalibrasi sudah ditentukan dari diafragma mikroskop.
 
-## Gambar
+## Bagan bagan Mikroskop
 
-Lensa kondensor
+![bagan Mikroskop](/uploads/Mikroskop-diagram.png "Bagan Mikroskop")
+
+## Gambar
 
 Hubungan antara Lensa Kondensor, Meja Preparat, dan Lensa Objektif (Kondensor Substage | Panduan Anatomi Mikroskop | Evident)
 
