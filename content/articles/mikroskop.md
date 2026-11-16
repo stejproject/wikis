@@ -6,7 +6,7 @@ categories:
   - Artikel
   - Lensa
 ---
-[![Mikroskop](https://raw.githubusercontent.com/stejproject/wikis/refs/heads/main/uploads/1000154560.png "Mikroskop")](https://raw.githubusercontent.com/stejproject/wikis/refs/heads/main/uploads/1000154560.jpg)
+[![Mikroskop](https://raw.githubusercontent.com/stejproject/wikis/refs/heads/main/uploads/1000154560.png "Mikroskop")](https://raw.githubusercontent.com/stejproject/wikis/refs/heads/main/uploads/1000154560.png)
 
 ## Point Penting
 
