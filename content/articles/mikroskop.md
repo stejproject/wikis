@@ -28,7 +28,7 @@ Untuk pengaturan kalibrasi sudah ditentukan dari diafragma mikroskop.
 
 ## Bagan bagan Mikroskop
 
-![bagan Mikroskop](/uploads/Mikroskop-diagram.png "Bagan Mikroskop")
+[![bagan Mikroskop](https://raw.githubusercontent.com/stejproject/wikis/refs/heads/main/uploads/Mikroskop-diagram.png "Bagan Mikroskop")](https://raw.githubusercontent.com/stejproject/wikis/refs/heads/main/uploads/Mikroskop-diagram.png)
 
 ## Gambar
 
