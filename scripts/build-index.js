@@ -71,8 +71,17 @@ for (const block of log.split('@@').slice(1)) {
   }
 }
 
-const known = new Set(pages.map(p => p.slug.toLowerCase()));
-const shown = changes.filter(c => c.type !== 'D' && known.has(c.slug.toLowerCase()));
+// Hanya halaman di content/articles/ yang ditampilkan (halaman sistem seperti Bantuan tidak ikut),
+// dan tiap halaman cukup satu baris (suntingan terbarunya) supaya satu halaman tidak memenuhi daftar.
+const articleSlugs = new Set(pages.filter(p => !p.system).map(p => p.slug.toLowerCase()));
+const seenSlug = new Set();
+const shown = changes.filter(c => {
+  const k = c.slug.toLowerCase();
+  if (c.type === 'D' || !articleSlugs.has(k)) return false;
+  if (seenSlug.has(k)) return false;
+  seenSlug.add(k);
+  return true;
+});
 
 fs.writeFileSync(path.join(root, 'index.json'), JSON.stringify({ generated: new Date().toISOString(), pages, changes: shown }, null, 1));
 console.log(`index.json: ${pages.length} halaman, ${shown.length} perubahan`);
