@@ -40,3 +40,11 @@ Jika ingin dikerjakan bertahap tanpa tekanan, Anda bisa mengaturnya seperti ini:
 Dengan cara bertahap seperti ini, situs tetap aktif tanpa waktu henti (_downtime_) dan Anda tetap bisa fokus menikmati proses pengembangan fitur atau konten wiki di STEJ Project.
 
 Untuk sekarang, apakah Anda ingin fokus **menikmati pengembangan isi wiki/fitur STEJ Project** dulu, atau mau saya catatkan **daftar periksa (_checklist_) singkat** supaya kapan pun Anda siap migrasi nanti tinggal ikuti urutannya?
+
+Dari ide _tuning_ di atas, mana yang paling ingin kamu terapkan lebih dulu pada **`stejproject.portal`**:
+
+- **Penyempurnaan palet warna Mode Gelap**
+- **Efek sentuhan tombol & kartu ringan**
+- **Tombol pintasan cepat ke Tanya AI**
+
+Beri tahu pilihanmu agar saya bisa buatkan potongan kode CSS/JS ringannya.
