@@ -8,6 +8,6 @@ categories:
 ---
 ## Perubahan daftar
 
-[1. stejproject.github.io(stejproject.github.io)]
+1. stejproject.github.io
 
-[2. stejproject.pages.dev(stejproject.pages.dev)]
+2. stejproject.pages.dev
