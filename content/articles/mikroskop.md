@@ -43,3 +43,7 @@ Hubungan antara Lensa Kondensor, Meja Preparat, dan Lensa Objektif (Kondensor Su
 ## Kesimpulan
 
 ## Pranala
+
+https://www.wikihow.com/Make-a-Microscope
+
+https://www.wikihow.com/Make-a-Telescope
