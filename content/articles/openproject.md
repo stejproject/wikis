@@ -23,3 +23,5 @@ Sesuai dengan lisensi STEJ tentunya.
 6. https://stejproject.github.io/Blantik-Gancar/store-toko.html?merchant=lCWUeA1ehMfFb95XG2bp6OsW0Uf1 (Toko Kopi Blantik Samples)
 [- https://stejproject.github.io/budget-line/](https://stejproject.github.io/openproject/budget-line.html) (budget mainline)
 7. https://stejproject.github.io/openproject/chemist-sim.html (chemist similator and bep)
+
+## Sanksi
