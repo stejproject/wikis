@@ -29,9 +29,7 @@ Apakah Anda sedang mempertimbangkan untuk membeli domain kustom sendiri (seperti
 
 ## Rowndown
 
-**Betul sekali, pelan-pelan saja justru jauh lebih aman dan nyaman.**
-
-Domain `.io` juga tidak akan tiba-tiba hilang dalam waktu dekat, dan situs **`stejproject.github.io`** Anda saat ini sudah berjalan lancar, rapi, serta terindeks dengan baik. Tidak perlu terburu-buru melakukan migrasi sekaligus. [[1](http://stejproject.github.io/#:~:text=STEJ%20Project%20Stej%2DLogo%20Cari%20Search,saya%20sebutkan.%20STEJ%20Project%20(2020)]
+**Betul sekali, pelan-pelan saja justru jauh lebih aman dan nyaman.** Domain `.io` juga tidak akan tiba-tiba hilang dalam waktu dekat, dan situs **`stejproject.github.io`** Anda saat ini sudah berjalan lancar, rapi, serta terindeks dengan baik. Tidak perlu terburu-buru melakukan migrasi sekaligus. [[1](http://stejproject.github.io/#:\~:text=STEJ%20Project%20Stej%2DLogo%20Cari%20Search,saya%20sebutkan.%20STEJ%20Project%20(2020)]
 
 Jika ingin dikerjakan bertahap tanpa tekanan, Anda bisa mengaturnya seperti ini:
 
