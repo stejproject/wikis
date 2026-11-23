@@ -15,6 +15,7 @@ Ini adalah perubahan domain dari program stejproject
 3.
 
 ## Isi
+
 karena untuk antisipasi domain.io yang kemungkinan akan tenggelam di tahun 2027.
 
 Tidak—domain .io (termasuk github.io) tidak akan tiba-tiba punah atau mati pada tahun 2027.
@@ -25,3 +26,19 @@ Namun, secara teknis dan regulasi internet, situs .io tetap aman karena beberapa
 • Kepentingan Ekosistem Teknologi Global: Jutaan layanan teknologi, startup, hingga platform besar seperti GitHub Pages (github.io) menggunakan domain ini. Kalaupun di masa depan status wilayahnya berubah, besar kemungkinan ICANN atau pengelola registri akan mencari jalan tengah agar infrastruktur internet global tidak terganggu. [1] (https://translate.google.com/translate?u=https://www.networksolutions.com/blog/io-vs-com-domain-tld/&hl=id&sl=en&tl=id&client=sge), [2] (https://translate.google.com/translate?u=https://www.theregister.com/off-prem/2024/10/10/the-io-domain-isnt-going-anywhere-in-the-next-few-years/479311&hl=id&sl=en&tl=id&client=sge), [3] (https://thenewstack.io/what-is-the-future-of-the-io-domain/), [4] (https://circleid.com/posts/future-of-dot-io-domain-uncertain-as-uk-relinquishes-chagos-islands)
 Jadi untuk stejproject.github.io, alamat tersebut tetap bisa diakses dan dikembangkan dengan normal melewati 2027 tanpa perlu khawatir tiba-tiba hilang.
 Apakah Anda sedang mempertimbangkan untuk membeli domain kustom sendiri (seperti .com atau .my.id) untuk STEJ Project suatu saat nanti, atau tetap nyaman memakai subdomain github.io?
+
+## Rowndown
+
+**Betul sekali, pelan-pelan saja justru jauh lebih aman dan nyaman.**
+
+Domain `.io` juga tidak akan tiba-tiba hilang dalam waktu dekat, dan situs **`stejproject.github.io`** Anda saat ini sudah berjalan lancar, rapi, serta terindeks dengan baik. Tidak perlu terburu-buru melakukan migrasi sekaligus. [[1](http://stejproject.github.io/#:~:text=STEJ%20Project%20Stej%2DLogo%20Cari%20Search,saya%20sebutkan.%20STEJ%20Project%20(2020)]
+
+Jika ingin dikerjakan bertahap tanpa tekanan, Anda bisa mengaturnya seperti ini:
+
+1. **Tahap 1 (Santai & Tanpa Mengubah Hosting):** Biarkan **`stejproject.github.io`** tetap aktif seperti biasa, sambil pelan-pelan merapikan tautan internal di 10 file tersebut menjadi jalur relatif (`/nama-halaman.html`) kapan pun Anda sedang membuka repositori.
+2. **Tahap 2 (Uji Coba Domain Baru):** Jika suatu saat sudah siap, daftarkan domain gratis pilihan Anda (seperti `stejproject.pages.dev` atau `stejproject.is-a.software`) sebagai alamat pendamping dan pastikan fitur _Tanya Wiki_ serta Firebase berjalan mulus di sana.
+3. **Tahap 3 (Peralihan Penuh):** Baru setelah semuanya benar-benar siap dan teruji, Anda bisa mengarahkan pengunjung sepenuhnya ke alamat baru.
+
+Dengan cara bertahap seperti ini, situs tetap aktif tanpa waktu henti (_downtime_) dan Anda tetap bisa fokus menikmati proses pengembangan fitur atau konten wiki di STEJ Project.
+
+Untuk sekarang, apakah Anda ingin fokus **menikmati pengembangan isi wiki/fitur STEJ Project** dulu, atau mau saya catatkan **daftar periksa (_checklist_) singkat** supaya kapan pun Anda siap migrasi nanti tinggal ikuti urutannya?
