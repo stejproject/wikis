@@ -3,6 +3,7 @@ const fs = require('fs'), path = require('path'), cp = require('child_process');
 const root = path.join(__dirname, '..');
 const dir = path.join(root, 'content');
 const SUBDIRS = ['system', 'articles']; // system = halaman wiki (Bantuan, dll.), articles = isi artikel
+const OUT = path.join(root, 'index.json');
 
 function unq(v) {
   v = v.trim();
@@ -36,12 +37,31 @@ function git(args) {
   try { return cp.execFileSync('git', args, { cwd: root, encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'] }); }
   catch (e) { return ''; }
 }
+function fail(msg) { console.error('GAGAL: ' + msg); process.exit(1); }
+
+// Jumlah artikel pada index.json lama (untuk mendeteksi penurunan mendadak)
+let prevArticles = 0;
+try {
+  const prev = JSON.parse(fs.readFileSync(OUT, 'utf8'));
+  prevArticles = (prev.pages || []).filter(p => !p.system).length;
+} catch (e) { /* belum ada / rusak: abaikan */ }
 
 const pages = [], seen = new Set();
 for (const sub of SUBDIRS) {
   const d = path.join(dir, sub);
-  if (!fs.existsSync(d)) continue;
-  for (const f of fs.readdirSync(d).filter(f => f.endsWith('.md')).sort()) {
+  // Dulu: dilewati diam-diam. Sekarang: gagal supaya index.json yang rusak tidak ter-deploy.
+  if (!fs.existsSync(d)) fail(`folder tidak ditemukan: content/${sub} (dicari di ${d})`);
+
+  const entries = fs.readdirSync(d, { withFileTypes: true });
+  for (const e of entries) {
+    if (e.isDirectory()) console.warn(`PERINGATAN subfolder diabaikan (tidak rekursif): content/${sub}/${e.name}`);
+    else if (e.isFile() && !/\.md$/i.test(e.name) && !e.name.startsWith('.'))
+      console.warn(`PERINGATAN file bukan .md diabaikan: content/${sub}/${e.name}`);
+  }
+
+  // Ekstensi tidak peka huruf besar-kecil (.md, .MD, .Md)
+  const files = entries.filter(e => e.isFile() && /\.md$/i.test(e.name)).map(e => e.name).sort();
+  for (const f of files) {
     const slug = f.slice(0, -3);
     if (seen.has(slug.toLowerCase())) console.warn('PERINGATAN slug ganda (halaman sistem didahulukan):', `${sub}/${f}`);
     seen.add(slug.toLowerCase());
@@ -60,13 +80,18 @@ for (const sub of SUBDIRS) {
   }
 }
 
+const articleCount = pages.filter(p => !p.system).length;
+if (articleCount === 0) fail('tidak ada artikel di content/articles. Periksa nama folder, ekstensi .md, dan apakah file sudah ter-commit/ter-checkout.');
+if (prevArticles > 0 && articleCount < prevArticles * 0.5)
+  fail(`jumlah artikel turun drastis (${prevArticles} -> ${articleCount}). Periksa apakah ada file yang hilang. Hapus index.json lama untuk memaksa build jika memang disengaja.`);
+
 const changes = [];
 const log = git(['log', '-n', '200', '--name-status', '--format=@@%H|%an|%cI|%s', '--', 'content']);
 for (const block of log.split('@@').slice(1)) {
   const [head, ...rest] = block.split('\n');
   const [hash, author, date, ...msg] = head.split('|');
   for (const l of rest) {
-    const m = l.match(/^([AMDR]\d*)\t(?:.*\t)?content\/(?:system\/|articles\/)?([^/]+)\.md$/);
+    const m = l.match(/^([AMDR]\d*)\t(?:.*\t)?content\/(?:system\/|articles\/)?([^/]+)\.md$/i);
     if (m && m[1] !== 'R100') changes.push({ slug: m[2], type: m[1][0], author, date, message: msg.join('|'), hash });
   }
 }
@@ -83,5 +108,5 @@ const shown = changes.filter(c => {
   return true;
 });
 
-fs.writeFileSync(path.join(root, 'index.json'), JSON.stringify({ generated: new Date().toISOString(), pages, changes: shown }, null, 1));
-console.log(`index.json: ${pages.length} halaman, ${shown.length} perubahan`);
+fs.writeFileSync(OUT, JSON.stringify({ generated: new Date().toISOString(), pages, changes: shown }, null, 1));
+console.log(`index.json: ${pages.length} halaman (${articleCount} artikel), ${shown.length} perubahan`);
