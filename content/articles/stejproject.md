@@ -27,7 +27,7 @@ Namun, secara teknis dan regulasi internet, situs .io tetap aman karena beberapa
 Jadi untuk stejproject.github.io, alamat tersebut tetap bisa diakses dan dikembangkan dengan normal melewati 2027 tanpa perlu khawatir tiba-tiba hilang.
 Apakah Anda sedang mempertimbangkan untuk membeli domain kustom sendiri (seperti .com atau .my.id) untuk STEJ Project suatu saat nanti, atau tetap nyaman memakai subdomain github.io?
 
-## Rowndown
+## Rundown
 
 **Betul sekali, pelan-pelan saja justru jauh lebih aman dan nyaman.** Domain `.io` juga tidak akan tiba-tiba hilang dalam waktu dekat, dan situs **`stejproject.github.io`** Anda saat ini sudah berjalan lancar, rapi, serta terindeks dengan baik. Tidak perlu terburu-buru melakukan migrasi sekaligus. [[1](http://stejproject.github.io/#:\~:text=STEJ%20Project%20Stej%2DLogo%20Cari%20Search,saya%20sebutkan.%20STEJ%20Project%20(2020)]
 
