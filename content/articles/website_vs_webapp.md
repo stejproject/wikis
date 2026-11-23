@@ -8,12 +8,12 @@ categories:
 - Website adalah kumpulan halaman dalam suatu alamat internet yang dapat diakses penjelajah web.
 - Webapp adalah suatu aplikasi yang diakses menggunakan penjelajah web jaringan seperti internet atau intranet.
 
-Tujuan :
+## Tujuan :
 
 1. Website = menyampaikan suatu informasi kepada pengguna secara statis.
 2. Webapp = lebih mengutamakan fitur dan interaksi pengguna: mengirim formulir, menggunakan fitur chat, pembayaran online, dan lain-lain.
 
-Karakteristiknya :
+## Karakteristiknya :
 
 | ***Website*** | ***Web App*** |
 | Penggunaan [alamat internet](https://stejproject.github.io/posts/category/wiki-post.html#) sesuai kebutuhan. | Biasanya menggunakan cloud hosting karena penggunaan data yang lebih besar. |
