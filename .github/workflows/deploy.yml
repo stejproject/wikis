@@ -7,7 +7,6 @@ permissions:
   contents: read
   pages: write
   id-token: write
-  actions: write   # untuk menghapus artifact ganda
 concurrency:
   group: pages
   cancel-in-progress: true
@@ -30,7 +29,7 @@ jobs:
       - run: |
           mkdir -p _site
           touch .nojekyll
-          cp index.json _site/            # tanpa 'if': kalau tidak ada, langsung gagal
+          cp index.json _site/
           for f in index.html .nojekyll; do
             if [ -f "$f" ]; then cp "$f" _site/; fi
           done
@@ -39,19 +38,8 @@ jobs:
           done
           ls -la _site
       - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v4
+      - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
-      - name: Hapus artifact github-pages ganda
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          repo="${{ github.repository }}"
-          ids=$(gh api "repos/$repo/actions/runs/${{ github.run_id }}/artifacts" \
-            --jq '[.artifacts[] | select(.name=="github-pages")] | sort_by(.created_at) | reverse | .[1:] | .[].id')
-          for id in $ids; do
-            echo "Menghapus artifact ganda $id"
-            gh api -X DELETE "repos/$repo/actions/artifacts/$id"
-          done
       - id: deployment
         uses: actions/deploy-pages@v4
