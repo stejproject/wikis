@@ -1,1 +1,86 @@
-
+{
+  "videos": [
+    {
+      "title": "Belajar Website BOOTSTRAP 5",
+      "channel": "Web Programming UNPAS",
+      "id": "PLFIM0718LjIV46XyERoDIlBWl2tMmmm8X"
+    },
+    {
+      "title": "MASA DEPAN PROGRAMMER INDONESIA",
+      "channel": "Dea Afrizal",
+      "id": "Cg3ga8pKlQE"
+    },
+    {
+      "title": "Realita Bekerja di Startup Menurut Ex-Engineer Bukalapak",
+      "channel": "Cordova",
+      "id": "khqQtBXza0c"
+    },
+    {
+      "title": "Realita Hackathon Menurut Ex-Engineer Bukalapak",
+      "channel": "Cordova",
+      "id": "3c5k6ove0qA"
+    },
+    {
+      "title": "Tips Memilih Jurusan Kuliah dengan Tepat",
+      "channel": "Satu Persen",
+      "id": "4qUnZAChmBo"
+    },
+    {
+      "title": "React JS",
+      "channel": "Dea Afrizal",
+      "id": "PLc6SEcJkQ6DxQmmUzUilxRUNrJyeHDmX7"
+    },
+    {
+      "title": "Beda DIV dan SECTION di HTML[CariTauCuy]",
+      "channel": "Dea Afrizal",
+      "id": "PLc6SEcJkQ6DywaM0urqoHzkNouYRrogiz"
+    },
+    {
+      "title": "Stupid Error in soldering with tips",
+      "channel": "Tech Ideas",
+      "id": "DXKfAy1h7fA"
+    },
+    {
+      "title": "James Webb Spaces Telescope",
+      "channel": "TelescopeFeed | Hubble Space Telescope",
+      "id": "rP-J5Sn69Jo DW0cgvWmQDY"
+    },
+    {
+      "title": "Tips Beajar Programing ala Odi aka. Mathdroid",
+      "channel": "Web Programming UNPAS",
+      "id": "LKATs6MDeCw"
+    },
+    {
+      "title": "Tips Belajar Programming Autodidak",
+      "channel": "Onno Center",
+      "id": "k05yVYIxzB0"
+    },
+    {
+      "title": "Bagaimana Menguasai Banyak Bahasa Pemrograman",
+      "channel": "Programmer Zaman Now",
+      "id": "cihCrD7Nq9M"
+    },
+    {
+      "title": "Untuk Pemula Belajar Pemrograman Apa?",
+      "channel": "Programmer Zaman Now",
+      "id": "vTtqtFtIzio",
+      "note": "Kesimpulan setelah menonton video ini : Bahasa pemrograman yang kamu kuasai, juga dipakai dalam dunia kerja. Syarat : Pelajari satu dasar bahasa pemrograman yang menurut anda mudah, kemudian dicatat sebagai pengingat ketika ada sebuah projek lain. Baik berupa sebuah blog maupun buku catatan. Menurut saya, menuliskan ke blog jauh lebih baik. Karena selain menjadi pengingat, tulisan ataupun isi blog akan bisa di baca oleh orang lain, sehingga bisa bermanfaat bagi orang lain"
+    },
+    {
+      "title": "Cara Membuat lilin seumur hidup",
+      "channel": "Youbeagger",
+      "id": "tzP5JxcmuTk"
+    },
+    {
+      "title": "Dari Belajar HTML CSS Bisa Dapet Uang Freelance",
+      "channel": "Dea Afrizal",
+      "id": "-HyqafzN8ic"
+    },
+    {
+      "title": "Cara Agar Badan Tidak Pegal-Pegal saat bekerja/belajar/ ngebenerin bug supaya tidak ada bug",
+      "channel": "DRV CHANNEL",
+      "id": "DcdirAZFNN8",
+      "note": "Belajar/kerja dan ngebenerin bug supaya tidak ada bug, sebaiknya harus sehat... Betul?"
+    }
+  ]
+}
